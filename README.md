@@ -2,6 +2,7 @@
 😊 Hello, nice to meet you! Welcome to my public portfolio for Telling Stories with Data at CMU! Here's where my cool work will go. 
 
   🔗 My web page URL: https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/
+  
   📑 My repository: https://github.com/ivyliyuxuan/LI-YUXUAN-TSWD-Portfolio
 
 # About me
