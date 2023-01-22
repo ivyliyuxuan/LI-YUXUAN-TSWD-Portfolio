@@ -1,26 +1,38 @@
 # LI YUXUAN-TSWD-Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where my cool work will go. 
+:blush: Hello, nice to meet you! Welcome to my public portfolio for Telling Stories with Data at CMU! Here's where my cool work will go. 
 
 # About me
-Hi! I'm Yuxuan Li from MISM global program. I am very interested in data visualization and creative design, so I'm really looking forward to this lesson. 
-I am very professional in Chinese Traditional Dance, and it takes me at least 5 hours to practice every day. But I will carefully complete my assignments for this class! I hope we can all make an excellent portfolio.
+I'm Yuxuan Li from MISM global program. I'm very interested in data visualization and creative design, so I really expect to take TSWD course. 
+
+:woman_student: Maybe you saw me like this in school:
+
+<img src="https://user-images.githubusercontent.com/107164906/213944188-4cb9a356-0005-4c5d-bb8b-e9aa18e2b2f6.jpg" width="260"/>
+
+:eyes: However, after school, I mainly work as follows:
+
+<img src="https://user-images.githubusercontent.com/107164906/213944115-867bce1c-faa0-4f65-bdf5-cc4594a57a9d.jpg" width="260"/>
+
+This is because I'm professional in :heartpulse: Chinese Traditional Dance. So I take at least 5 hours to choreograph and practice dancing every day. But I will also try my best to complete :blue_heart: Assignments for this course! I hope we can all make excellent portfolios.
 
 # What I hope to learn
-1. Create better data visualizations supported by narrative
-2. Improve data analysis capability
-3. Duild valuable design skills
-4. Have an opportunity to learn Tableau
-5. Tell the story the data supports
+:one: Create better data visualizations supported by narrative
+
+:two: Improve data analysis capability
+
+:three: Duild valuable design skills
+
+:four: Have an opportunity to learn Tableau
+
+:five: Tell the story the data supports
 
 # Portfolio
 Welcome to my portfolio! Can't wait to get started it!
 
-## Assignment 1
+## Assignment 1 :memo: 
 Hello. I'm Yuxuan Li. Please look forward to my assignment 1 together!
 
-
-## Assignment 2
+## Assignment 2 :memo:
 Hello. I'm Yuxuan Li. Please look forward to my assignment 2 together!
 
-## Final Project
+## Final Project :golf:
 Hello. I'm Yuxuan Li. Please look forward to my final project together!
