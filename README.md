@@ -14,3 +14,13 @@ I am very professional in dancing, and it takes me at least 5 hours to practice 
 
 # Portfolio
 Welcome to my portfolio! Can't wait to get started it!
+
+## Assignment 1
+Hello. I'm Yuxuan Li. Please look forward to my assignment 1 together!
+
+
+## Assignment 2
+Hello. I'm Yuxuan Li. Please look forward to my assignment 2 together!
+
+## Final Project
+Hello. I'm Yuxuan Li. Please look forward to my final project together!
