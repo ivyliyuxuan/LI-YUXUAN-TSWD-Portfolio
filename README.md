@@ -6,7 +6,7 @@
 📑 My repository: https://github.com/ivyliyuxuan/LI-YUXUAN-TSWD-Portfolio
 
 # About me
-👩‍🎓 I'm Yuxuan Li from [CMU](https://www.cmu.edu) [MISM](https://www.heinz.cmu.edu/programs/information-systems-management-master/) global program. I'm very interested in data visualization and creative design, so I really expect to take TSWD course. 
+👩‍🎓 I'm Yuxuan Li from [CMU](CMU.md) [MISM](https://www.heinz.cmu.edu/programs/information-systems-management-master/) global program. I'm very interested in data visualization and creative design, so I really expect to take TSWD course. 
 
 🎓 When I study at school, I look like this:
 
