@@ -39,4 +39,4 @@ Hello. I'm Yuxuan Li. Please look forward to my Assignment 1 together!
 Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
 
 ## Final Project ⛳
-Hello. I'm Yuxuan Li. Please look forward to my [Final Project](Final Project.md) together!
+Hello. I'm Yuxuan Li. Please look forward to my [Final Project PartⅠ](Final Project PartⅠ.md) and [Final Project Part Ⅱ](Final Project PartⅡ.md) together!
