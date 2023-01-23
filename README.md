@@ -39,4 +39,4 @@ Hello. I'm Yuxuan Li. Please look forward to my assignment 1 together!
 Hello. I'm Yuxuan Li. Please look forward to my assignment 2 together!
 
 ## Final Project ⛳
-Hello. I'm Yuxuan Li. Please look forward to my [Final Project](https://github.com/ivyliyuxuan/LI-YUXUAN-TSWD-Portfolio/blob/main/Final%20Project) together!
+Hello. I'm Yuxuan Li. Please look forward to my [Final Project](Final Project.md) together!
