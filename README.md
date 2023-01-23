@@ -33,10 +33,10 @@ This is because I'm professional in ❤️ Chinese Traditional Dance. So I take 
 Welcome to my portfolio! Can't wait to get started it!
 
 ## Assignment 1 📝
-Hello. I'm Yuxuan Li. Please look forward to my assignment 1 together!
+Hello. I'm Yuxuan Li. Please look forward to my Assignment 1 together!
 
 ## Assignment 2 📝
-Hello. I'm Yuxuan Li. Please look forward to my assignment 2 together!
+Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
 
 ## Final Project ⛳
 Hello. I'm Yuxuan Li. Please look forward to my [Final Project](Final Project.md) together!
