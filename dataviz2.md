@@ -1,5 +1,5 @@
 # **Part 1: Working with web-based visualization tools and data**
-## Background	💵
+## 💵Background	
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance[^1]. 
 ## 📊Chart working with web-based visualization tools and data 
 Here is the chart from OECD official website:
