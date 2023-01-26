@@ -38,5 +38,5 @@ Hello. I'm Yuxuan Li. Here is my [Assignment: Visualizing government debt](/data
 ## 📝Assignment 2 
 Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
 
-## Final Project ⛳
+## ⛳Final Project 
 Hello. I'm Yuxuan Li. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
