@@ -7,6 +7,8 @@ Here is the chart from OECD official website:
 
 [^1]: General government debt, https://data.oecd.org/gga/general-government-debt.htm
 
+
+
 # Part 2: Working with Flourish
 ## Chart working with Flourish
 Here is the chart about general government debt-to-GDP ratio:
