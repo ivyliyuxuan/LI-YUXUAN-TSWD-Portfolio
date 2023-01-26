@@ -8,7 +8,7 @@ Here is the chart about General Government Debt-to-GDP Ratio on 2020:
 We can get data about General government debt-to-GDP ratio from 1995 to 2021 on the OECD official website, but since the value of OECD-average reaches its maximum in 2020, in this chart we only use data in 2020.
 
   
-[^1]: General government debt, https://data.oecd.org/gga/general-government-debt.htm
+[^1]: General Government Debt-to-GDP Ratio, https://data.oecd.org/gga/general-government-debt.htm
 
 
 # **Part 2: Working with Flourish**
