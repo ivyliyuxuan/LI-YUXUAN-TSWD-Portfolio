@@ -32,10 +32,10 @@ This is because I'm professional in ❤️ Chinese Traditional Dance. So I take 
 # Portfolio
 Welcome to my portfolio! Can't wait to get started it!
 
-## Assignment: Visualizing government debt 📝
+## 💵Assignment: Visualizing government debt 
 Hello. I'm Yuxuan Li. Here is my [Assignment: Visualizing government debt](/dataviz2.md)!
 
-## Assignment 2 📝
+## 📝Assignment 2 
 Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
 
 ## Final Project ⛳
