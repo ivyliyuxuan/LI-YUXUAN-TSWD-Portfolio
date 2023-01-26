@@ -12,7 +12,9 @@ We can get data about General government debt-to-GDP ratio from 1995 to 2021 on 
 
 
 # **Part 2: Working with Flourish**
-## 📈Chart working with Flourish
+## 📈Chart working with Flourish 1
 Here is the chart about General Government Debt-to-GDP Ratio from 1995 to 2021:
 <div class="flourish-embed flourish-chart" data-src="visualisation/12550638"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+## 📈Chart working with Flourish 2
+Here is the chart about the Average General Government Debt-to-GDP Ratio in recently year:
+<div class="flourish-embed flourish-chart" data-src="visualisation/12561280"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
