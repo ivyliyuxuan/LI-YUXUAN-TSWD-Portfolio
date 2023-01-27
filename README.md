@@ -40,3 +40,12 @@ Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
 
 ## ⛳Final Project 
 Hello. I'm Yuxuan Li. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
+
+# Useful Tools Learned from TWSD Course
+## Visualization Tool
+1️⃣ [Flourish](https://flourish.studio/)
+## Data Source
+1️⃣ [OECD Data](https://data.oecd.org/)
+## User Guide
+1️⃣ [Github Docs](https://docs.github.com/en/get-started)
+
