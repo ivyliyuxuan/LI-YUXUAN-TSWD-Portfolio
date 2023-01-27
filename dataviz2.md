@@ -18,4 +18,4 @@ Here is the grid of line chart about General Government Debt-to-GDP Ratio from 1
 
 ## 📊The grid of column chart working with Flourish
 Here is the grid of column charts grouped by continent showing the change of General Government Debt-to-GDP Ratio in each continent from 2017 to 2021:
-<div class="flourish-embed flourish-chart" data-src="visualisation/12561280" width="800" height="600"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12561280"><script src="https://public.flourish.studio/resources/embed.js" width="800" height="600"></script></div>
