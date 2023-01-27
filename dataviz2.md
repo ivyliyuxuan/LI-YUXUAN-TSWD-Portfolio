@@ -11,7 +11,7 @@ We can get data about General government debt-to-GDP ratio from 1995 to 2021 on 
 [^1]: General Government Debt-to-GDP Ratio, https://data.oecd.org/gga/general-government-debt.htm
 
 
-# **Part 2: Working with Flourish**
+# **Part 2: Working with [Flourish](https://flourish.studio/)**
 ## 📈The grid of Line chart working with Flourish
 Here is the grid of line chart about General Government Debt-to-GDP Ratio from 1995 to 2021 of OECD member countries:
 <div class="flourish-embed flourish-chart" data-src="visualisation/12550638"><script src="https://public.flourish.studio/resources/embed.js"><div style="width:800; height:600"></script></div>
