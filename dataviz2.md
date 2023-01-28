@@ -3,7 +3,7 @@
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance[^1]. 
 ## 📊Chart working with web-based visualization tools and data 
 Here is the chart about General Government Debt-to-GDP Ratio on 2020:
-<iframe src="https://data.oecd.org/chart/6XKi" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XKi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+<iframe src="https://data.oecd.org/chart/6XKi" width="800" height="700" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XKi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ### Analysis and Thinking
 <details open>
