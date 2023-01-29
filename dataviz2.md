@@ -13,7 +13,7 @@ Here is the chart about General Government Debt-to-GDP Ratio on 2020:
  
   * The chart clearly compares the rates of the different countries in 2020 and sorts them according to the rates, making it easy for the viewer to complete the comparison.
  
-  * the chart highlights the OECD-average figures, making it easy for viewers to see which countries are above or below the average.
+  * The chart highlights the OECD-average figures, making it easy for viewers to see which countries are above or below the average.
  
   * The chart only contains specific values for each country in 2020, which is enough information if that's the topic the audience wants to focus on. But I would prefer to see how it changes from year to year, after all, just one year of data is too one-sided to evaluate the performance of each country.
 
