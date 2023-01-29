@@ -32,7 +32,7 @@ Here is the chart about General Government Debt-to-GDP Ratio on 2020:
 
 
 # **Part 2: Working with [Flourish](https://flourish.studio/)**
-## 📈The grid of Line chart working with Flourish
+## 📈The grid of line chart working with Flourish
 ### Visualization Display
 Here is the grid of line chart about the change of General Government Debt-to-GDP Ratio from 1995 to 2021 of OECD member countries:
 <iframe src='https://flo.uri.sh/visualisation/12550638/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:800px;height:1800px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12550638/?utm_source=embed&utm_campaign=visualisation/12550638' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -42,6 +42,7 @@ Here is the grid of line chart about the change of General Government Debt-to-GD
 <summary>👀 My Analysis </summary>
 
 * We can see from the chart that from 1995 to 2021, the General Government Debt-to-GDP Ratio is on an overall upward trend, although there are ups and downs in each country.
+* In this chart, we can get the trend of the Debt-to-GDP Ratio of each country, but it is difficult to observe the specific value by the naked eye. However, by putting the mouse on the corresponding point of the dynamic chart, the corresponding value of Debt-to-GDP Ratio can be surfaced, which helps the audience to get more information.
 
 </details>
 
@@ -66,7 +67,8 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 <details open>
 <summary>👀 My Analysis </summary>
 
-* From the grid of column chart, we can clearly see that during 2017 to 2021, the General Government Debt-to-GDP Ratio of Asia is higher than that of other continents, and it is on a rising trend.
+* The grid of line chart above includes too many countries, making the viewer a bit dazzled, so I categorized each country according to the continent it belongs to, and then calculated the average of each continent's Debt-to-GDP Ratio for each year. This allows viewers to more clearly compare the performance of each continent in each year.
+* From the grid of column chart, we can clearly see that during 2017 to 2021, the General Government Debt-to-GDP Ratio of Asia is higher than that of other continents.
 * although there are ups and downs in many continents，they are all on a rising trend.
 
 </details>
@@ -82,3 +84,9 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 * Because the grid of column chart includes many column charts, I use a uniform color to make the chart less cluttered.
 
 </details>
+
+
+# The comparison of different methods of visualization
+1️⃣ **The line chart** represents a numerical trend, a change in trend, even if the specific value can be ignored, by which appears the direction to understand the trend, up or down, smooth or jittery, slope peak or trough, etc..**The grid of line charts** contains several line charts, which can be compared and contrasted. So the grid of line chart above shows the change of General Government Debt-to-GDP Ratio from 1995 to 2021 of OECD member countries. 
+2️⃣ **The column chart** shows the comparative relationship of values and can show which categories are high and which are low by the length. **The grid of column charts** contains several column charts, which can be compared and contrasted. So the grid of column chart above allows viewers to compare the value about Debt-to-GDP Ratio of each continent in each year.
+
