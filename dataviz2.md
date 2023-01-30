@@ -2,6 +2,8 @@
 ## 💵Background	
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance[^1]. This work will be based on the TSWD coursework requirements to construct a compelling narrative and data visualization about general government debt-to-GDP ratio. And I would like to express my special thanks to the professor, [Christopher Goranson](https://www.heinz.cmu.edu/faculty-research/profiles/goranson-christopher), for his guidance during the [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) course at CMU. Finally, I hope you all enjoy my work.
 
+
+
 ## 📊Chart working with web-based visualization tools and data 
 Here is the chart about General Government Debt-to-GDP Ratio on 2020:
 <iframe src="https://data.oecd.org/chart/6XKi" width="800" height="700" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XKi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
@@ -119,3 +121,7 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 
 2️⃣ **The column chart** shows the comparative relationship of values and can show which categories are high and which are low by the length. **The grid of column charts** contains several column charts, which can be compared and contrasted. So the grid of column chart above allows viewers to compare the value about Debt-to-GDP Ratio of each continent in each year.
 
+
+
+🥰Thanks for your reading. If you are interested in other works from my course portfolio of [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) at CMU, you can return to my [Home Page](https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/)
+ by clicking here. 
