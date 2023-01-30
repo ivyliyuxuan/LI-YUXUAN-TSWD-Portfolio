@@ -36,7 +36,7 @@ Welcome to my portfolio! Can't wait to get started it!
 Hello. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
 
 ## Class Exercise: King County Cumulative Case Counts
-Hello. Here is my [Class Exercise: King County Cumulative Case Counts](/King County Demo.md)!
+Hello. Here is my [Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
 
 ## 📝Assignment 2 
 Hello. Please look forward to my Assignment 2 together!
