@@ -46,9 +46,11 @@ Hello. Please look forward to my [Final Project Part I](Final Project Part I.md)
 
 # Useful Tools Learned from TWSD Course
 ## 📊Visualization Tool
-1️⃣ [Flourish](https://flourish.studio/)
+1️⃣ [Flourish](https://flourish.studio/) <br>
+2️⃣ [Data Viz Project](https://datavizproject.com/) <br>
 ## 📑Data Source
 1️⃣ [OECD Data](https://data.oecd.org/)
 ## 📔User Guide
 1️⃣ [Github Docs](https://docs.github.com/en/get-started)
+2️⃣ [Coolors](https://coolors.co/palettes/trending)
 
