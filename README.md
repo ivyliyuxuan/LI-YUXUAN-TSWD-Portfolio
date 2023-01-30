@@ -33,13 +33,16 @@ This is because I'm professional in ❤️ Chinese Traditional Dance. So I take 
 Welcome to my portfolio! Can't wait to get started it!
 
 ## 💵Assignment: Visualizing government debt 
-Hello. I'm Yuxuan Li. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
+Hello. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
+
+## Class Exercise: King County Cumulative Case Counts
+Hello. Here is my [Class Exercise: King County Cumulative Case Counts](/King County Demo.md)!
 
 ## 📝Assignment 2 
-Hello. I'm Yuxuan Li. Please look forward to my Assignment 2 together!
+Hello. Please look forward to my Assignment 2 together!
 
 ## ⛳Final Project 
-Hello. I'm Yuxuan Li. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
+Hello. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
 
 # Useful Tools Learned from TWSD Course
 ## 📊Visualization Tool
