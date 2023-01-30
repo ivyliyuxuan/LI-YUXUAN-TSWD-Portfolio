@@ -123,5 +123,4 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 
 
 
-🥰Thanks for your reading. If you are interested in other works from my course portfolio of [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) at CMU, you can return to my [Home Page](https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/)
- by clicking here. 
+🥰Thanks for your reading. If you are interested in other works from my course portfolio of [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) at CMU, please feel free to visit my [Home Page](https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/). 
