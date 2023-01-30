@@ -57,13 +57,13 @@ Here is the grid of line chart about the change of General Government Debt-to-GD
 <details open>
 <summary>❓ My Thoughts on Visualization Design</summary>
 
-  ▪️ In this chart, I want the viewer to quickly know by the title what topic the chart will discuss. 
+  ▪️ In this chart, I want the viewer to quickly know by the title what topic the chart will discuss. <br>
  
-  ▪️ I think the explanatory notes below the title will further help the viewer to identify what the chart represents.
+  ▪️ I think the explanatory notes below the title will further help the viewer to identify what the chart represents.<br>
  
-  ▪️ I think the charts allow the viewer to quickly compare trends across countries, debt-to-GDP ratio for different countries in the same year and debt-to-GDP ratio for the same country in different years.
+  ▪️ I think the charts allow the viewer to quickly compare trends across countries, debt-to-GDP ratio for different countries in the same year and debt-to-GDP ratio for the same country in different years.<br>
  
-  ▪️ Because the grid of line chart includes many line charts, I use a uniform color to make the chart less cluttered.
+  ▪️ Because the grid of line chart includes many line charts, I use a uniform color to make the chart less cluttered.<br>
 
 </details>
 
@@ -76,11 +76,11 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 <details open>
 <summary>👀 My Analysis </summary>
 
-  ▪️ The grid of line chart above includes too many countries, making the viewer a bit dazzled, so I categorized each country according to the continent it belongs to, and then calculated the average of each continent's Debt-to-GDP Ratio for each year. This allows viewers to more clearly compare the performance of each continent in each year.
+  ▪️ The grid of line chart above includes too many countries, making the viewer a bit dazzled, so I categorized each country according to the continent it belongs to, and then calculated the average of each continent's Debt-to-GDP Ratio for each year. This allows viewers to more clearly compare the performance of each continent in each year.<br>
  
-  ▪️ From the grid of column chart, we can clearly see that during 2017 to 2021, the General Government Debt-to-GDP Ratio of Asia is higher than that of other continents.
+  ▪️ From the grid of column chart, we can clearly see that during 2017 to 2021, the General Government Debt-to-GDP Ratio of Asia is higher than that of other continents.<br>
  
-  ▪️ although there are ups and downs in many continents，they are all on a rising trend.
+  ▪️ although there are ups and downs in many continents，they are all on a rising trend.<br>
 
 </details>
 
@@ -89,13 +89,13 @@ Here is the grid of column charts grouped by continent showing the change of Gen
 <details open>
 <summary>❓ My Thoughts on Visualization Design</summary>
 
-  ▪️ In this chart, I want the viewer to quickly know by the title what topic the chart will discuss. 
+  ▪️ In this chart, I want the viewer to quickly know by the title what topic the chart will discuss. <br>
  
-  ▪️ I use the explanatory notes below the title to further help the viewer to identify what the chart represents.
+  ▪️ I use the explanatory notes below the title to further help the viewer to identify what the chart represents.<br>
  
-  ▪️ I think the charts allow the viewer to quickly compare trends across continents, debt-to-GDP ratio for different continents in the same year and debt-to-GDP ratio for the same continents in different years.
+  ▪️ I think the charts allow the viewer to quickly compare trends across continents, debt-to-GDP ratio for different continents in the same year and debt-to-GDP ratio for the same continents in different years.<br>
  
-  ▪️ Because the grid of column chart includes many column charts, I use a uniform color to make the chart less cluttered.
+  ▪️ Because the grid of column chart includes many column charts, I use a uniform color to make the chart less cluttered.<br>
 
 </details>
 
