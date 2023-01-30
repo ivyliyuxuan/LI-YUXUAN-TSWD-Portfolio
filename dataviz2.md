@@ -37,6 +37,20 @@ Here is the chart about General Government Debt-to-GDP Ratio on 2020:
 
 
 # **Part 2: Working with [Flourish](https://flourish.studio/)**
+## ❔ Why Florish
+&emsp;▪️ Easily turn our data into stunning charts, maps and interactive stories.<br>
+
+&emsp;▪️ Create agency-quality data graphics and animated stories that bring your data to life.<br>
+
+&emsp;▪️ Flourish is easy enough for anyone to use. Start with a template and drop in data.<br>
+
+&emsp;▪️ Create seamless embeds, magical presentations, or engaging content for social.<br>
+
+&emsp;▪️ Get custom themes so everything has your logo, fonts, colours and styles.[^2]<br>
+
+
+[^2]: Flourish official website, https://flourish.studio/
+
 ## 📈The grid of line chart working with Flourish
 ### Visualization Display
 Here is the grid of line chart about the change of General Government Debt-to-GDP Ratio from 1995 to 2021 of OECD member countries:
