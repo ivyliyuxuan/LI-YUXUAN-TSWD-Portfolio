@@ -1,6 +1,6 @@
 # **Part 1: Working with web-based visualization tools and data**
 ## 💵Background	
-General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance[^1]. This work will be based on the TSWD coursework requirements to construct a compelling narrative and data visualization about general government debt-to-GDP ratio. And I would like to express my special thanks to the professor, [Christopher Goranson](https://www.heinz.cmu.edu/faculty-research/profiles/goranson-christopher), for his guidance during the [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) course at CMU. Finally, I hope you all enjoy my work.
+General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance[^1]. This work will be based on the TSWD coursework requirements to construct a compelling narrative and data visualization about general government debt-to-GDP ratio. And before showing my work I would like to express my special thanks to the professor, [Christopher Goranson](https://www.heinz.cmu.edu/faculty-research/profiles/goranson-christopher), for his guidance during the [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) course at CMU. Finally, I hope you all enjoy my work.
 
 
 
