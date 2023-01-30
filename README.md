@@ -49,8 +49,8 @@ Hello. Please look forward to my [Final Project Part I](Final Project Part I.md)
 1️⃣ [Flourish](https://flourish.studio/) <br>
 2️⃣ [Data Viz Project](https://datavizproject.com/) <br>
 ## 📑Data Source
-1️⃣ [OECD Data](https://data.oecd.org/)
+1️⃣ [OECD Data](https://data.oecd.org/) <br>
 ## 📔User Guide
-1️⃣ [Github Docs](https://docs.github.com/en/get-started)
-2️⃣ [Coolors](https://coolors.co/palettes/trending)
+1️⃣ [Github Docs](https://docs.github.com/en/get-started) <br>
+2️⃣ [Coolors](https://coolors.co/palettes/trending) <br>
 
