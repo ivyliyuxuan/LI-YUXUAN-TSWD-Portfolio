@@ -35,8 +35,8 @@ Welcome to my portfolio! Can't wait to get started it!
 ## 💵Assignment: Visualizing government debt 
 Hello. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
 
-## Class Exercise: King County Cumulative Case Counts
-Hello. Here is my [Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
+## In-Class Exercise: King County Cumulative Case Counts
+Hello. Here is my [In-Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
 
 ## 📝Assignment 2 
 Hello. Please look forward to my Assignment 2 together!
@@ -48,6 +48,7 @@ Hello. Please look forward to my [Final Project Part I](Final Project Part I.md)
 ## 📊Visualization Tool
 1️⃣ [Flourish](https://flourish.studio/) <br>
 2️⃣ [Data Viz Project](https://datavizproject.com/) <br>
+3️⃣ [Tableau](https://www.tableau.com/) <br>
 ## 📑Data Source
 1️⃣ [OECD Data](https://data.oecd.org/) <br>
 ## 📔User Guide
