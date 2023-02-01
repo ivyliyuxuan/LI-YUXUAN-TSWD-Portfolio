@@ -38,6 +38,9 @@ Hello. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
 ## In-Class Exercise: King County Cumulative Case Counts
 Hello. Here is my [In-Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
 
+## In-Class Exercise: Ranking of News Media by Consumer Trust
+Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](Trust in News Media.md)!
+
 ## 📝Assignment 2 
 Hello. Please look forward to my Assignment 2 together!
 
