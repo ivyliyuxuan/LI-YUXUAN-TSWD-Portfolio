@@ -53,6 +53,7 @@ Hello. Please look forward to my [Final Project Part I](Final Project Part I.md)
 2️⃣ [Data Viz Project](https://datavizproject.com/) <br>
 3️⃣ [Tableau](https://www.tableau.com/) <br>
 4️⃣ [Figma](https://www.figma.com/education/) <br>
+5️⃣ [Infogram](https://infogram.com) <br>
 ## 📑Data Source
 1️⃣ [OECD Data](https://data.oecd.org/) <br>
 ## 📔User Guide
