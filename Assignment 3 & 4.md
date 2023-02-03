@@ -15,7 +15,11 @@ The following graph shows the year to year swings of various asset classes along
 [^1]: Growth Versus Value With Markets At A Crossroads, https://www.forbes.com/sites/greatspeculations/2014/05/06/growth-versus-value-with-markets-at-a-crossroads/?sh=250923893e96
 
 ## Why I selected this Data Visualization
+我的本科是学金融的，而且也对投资非常感兴趣。所以我经常在课余时间浏览各个与投资相关的网站。当我在福布斯官网寻找适合用于完成本次作业的图表时，这个图表吸引了我的注意。图表所展示的信息、内容和数据是非常有用的，因为它可以帮助在浏览福布斯网站的投资者了解不同资产类别在1999年到2013年间的投资回报的变化情况，已经历史平均水平。这些信息和数据是很有价值的，他能帮助投资者更好地进行判断和决定。所以我对这个图表产生了兴趣。
 
+不可否认，当我滑过这篇文章的页面时，使用多种颜色的图表十分显眼，但同时也让我头晕目眩。接着，图表中大量的文字和数据进一步增加了我阅读这个图表的难度。而当我试图寻找标题时，我发现图表中没有标题帮助我理解图表的主题。在短短的10秒内，我对图表的态度由十分感兴趣转变为抗拒阅读，这引发了我的思考。我认为这并不是一个比较好的数据可视化作品。我希望通过使用Telling stories with data课上学到的知识和Stephen Few's Data Visualization Effectiveness Profile，来帮助自己理解数字可视化的过程。同时，我希望吸取这个图表作者失败的经验，并使用相同的数据来做出更好的数据可视化作品来提升自己的能力。所以我选择了这个图表来完成本次作业。
+
+我认为这个图表由太多的信息和数据，所以改善这个数据可视化作品具有一定的难度。但也因为本次作业具有挑战，我感到非常的兴奋。我十分期待我能完美地完成本次作业！
 
 
 # Step two: critique the data visualization
