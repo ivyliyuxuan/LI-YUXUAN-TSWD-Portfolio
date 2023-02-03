@@ -35,14 +35,14 @@ Welcome to my portfolio! Can't wait to get started it!
 ## 💵Assignment: Visualizing government debt 
 Hello. Here is my [Assignment: Visualizing Government Debt](/dataviz2.md)!
 
+## 📝Assignment 3 & 4: Critique by Design 
+Hello. Here is my [Assignment 3 & 4: Critique by Design](Assignment 3 & 4.md)!
+
 ## In-Class Exercise: King County Cumulative Case Counts
 Hello. Here is my [In-Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
 
 ## In-Class Exercise: Ranking of News Media by Consumer Trust
 Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](Trust in News Media.md)!
-
-## 📝Assignment 2 
-Hello. Please look forward to my Assignment 2 together!
 
 ## ⛳Final Project 
 Hello. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
