@@ -64,7 +64,7 @@ Here’s my assessment of the effectiveness of original chart from [Forbes.com](
 5️⃣ I removed the maximum and minimum data on the right side of the original chart because the maximum and minimum values of each asset's investment return can be clearly determined based on the trend of the line segment in the chart of sketch. <br><br>
 6️⃣ I ranked the line chart of various assets based on their average returns from 2001 to 2013, from highest to lowest. The highest average return is ranked first, and the lowest average return is ranked last in the grid of charts. <br><br>
 7️⃣ I added the y-axis title to help viewers know that the metric the chart is comparing is the rate of return on investment. <br><br>
-8️⃣ I have indicated the name of the asset class at the top of each line chart in the grid of charts to help viewers quickly understand the information. <br>
+8️⃣ I have indicated the name of the asset class at the top of each line chart in the grid of charts to help viewers quickly understand the information. <br><br>
 9️⃣ I added a series filter so that viewers can pick and choose the types of assets they want to compare and understand, rather than necessarily presenting all 8 types of assets at once. <br><br>
 
 # Step four: Test the solution
