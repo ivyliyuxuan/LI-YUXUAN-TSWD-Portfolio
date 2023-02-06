@@ -92,11 +92,21 @@ I have shared the wireframes with two other people and collected feedback. The f
 &ensp; -A4: Since the bottom of the chart has the Forbes.com logo and a link to the original article, I assume the audience for this chart is investors like me, or anyone else interested in investing. <br><br>
 &ensp; -Q5: Is there anything you would change or do differently? <br>
 &ensp; -A5: I think the most important thing to change in this chart is to remove the green and red. Because different investors have different investment preferences, the high-risk, high-yield Small-cap Stocks are not necessarily the best, and its use of green is not quite appropriate. <br><br>
+
+## In-class discussion feedback from classmates
+### What worked?
+1️⃣ The sketch is already much clearer than the original and easier for the viewer to read. <br><br>
+2️⃣ The sketch changes the names of the various asset types to their full names so that viewers without specialized backgrounds can understand the asset types more quickly. <br><br>
+### What didn't work?
+1️⃣ Don't like the use of red and green because high-risk, high-return asset types are not always the best. <br><br>
+2️⃣ The chart is so long that it cannot even be displayed completely on one page, requiring the mouse to scroll so that the viewer cannot get all the information at first glance. <br><br>
+
 ## My learning from the feedback
 1️⃣ The eight assets should be classified according to the category of stocks and the category of bonuses. Because not all viewers are aware of which assets belong to stocks and which assets belong to bonds. <br><br>
 2️⃣ Important data, such as the maximum and minimum values of return returns for each asset class from 2001 to 2013, should be clearly labeled so that viewers can access important information at first glance. <br><br>
 3️⃣ The use of green and red should be removed. This is because different investors have different investment preferences. High-risk, high-yield Small-cap Stocks are not the best choice for everyone. <br><br>
 4️⃣ Data from 1999 to 2001 should be included, and although the data for these two years are incomplete, viewers can choose for themselves whether or not they need to pay attention. <br><br>
+5️⃣ Change the length of the entire chart to limit the entire chart to one screen size so that the viewer can see everything at first glance without having to scroll the mouse. <br><br>
 
 # Step five: Recreated Data Visualization
 ## My final visualization recreated
