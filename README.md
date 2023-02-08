@@ -41,6 +41,9 @@ Hello. Here is my [Assignment 3 & 4: Critique by Design](Assignment 3 & 4.md)!
 ## In-Class Exercise: King County Cumulative Case Counts
 Hello. Here is my [In-Class Exercise: King County Cumulative Case Counts](King County Demo.md)!
 
+## In-Class Exercise: Coronavirus in the U.S.: Latest Map and Case Count
+Hello. Here is my [In-Class Exercise: Coronavirus in the U.S., Latest Map and Case Count]()
+
 ## In-Class Exercise: Ranking of News Media by Consumer Trust
 Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](Trust in News Media.md)!
 
