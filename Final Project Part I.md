@@ -21,6 +21,6 @@
 
 
 # Scenario 8️⃣
-<img src="https://github.com/ivyliyuxuan/LI-YUXUAN-TSWD-Portfolio/blob/main/negative%20word%20cloud.PNG" height="600" width="1000"/>
+![negative word cloud.PNG](./negative word cloud.PNG)
 
-<img src="https://github.com/ivyliyuxuan/LI-YUXUAN-TSWD-Portfolio/blob/main/positive%20word%20cloud.PNG" height="600" width="1000"/>
+![positive word cloud.PNG](./positive word cloud.PNG)
