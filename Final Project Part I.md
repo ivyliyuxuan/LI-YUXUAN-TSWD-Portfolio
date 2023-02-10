@@ -11,6 +11,7 @@
 
 # Scenario 2️⃣
 ![US weekly working hours.PNG](./US weekly working hours.PNG)
+![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
 
 
 # Scenario 5️⃣
