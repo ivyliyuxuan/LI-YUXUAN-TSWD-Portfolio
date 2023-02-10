@@ -47,8 +47,8 @@ Hello. Here is my [In-Class Exercise: Coronavirus in the U.S., Latest Map and Ca
 ## In-Class Exercise: Ranking of News Media by Consumer Trust
 Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](Trust in News Media.md)!
 
-## ⛳Final Project 
-Hello. Please look forward to my [Final Project Part I](Final Project Part I.md) and [Final Project Part II](Final Project Part II.md) together!
+## ⛳Final Project Part I
+Hello. Here is my [Final Project Part I](Final Project Part I.md)!
 
 # Useful Tools Learned from TWSD Course
 ## 📊Visualization Tool
