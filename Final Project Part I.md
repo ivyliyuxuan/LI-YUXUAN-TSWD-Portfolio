@@ -10,7 +10,7 @@
 </script>
 
 # Scenario 2️⃣
-
+![US weekly working hours.PNG](./US weekly working hours.PNG)
 
 
 # Scenario 5️⃣
