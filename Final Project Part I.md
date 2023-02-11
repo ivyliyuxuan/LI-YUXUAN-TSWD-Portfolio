@@ -22,7 +22,7 @@
 ![PTO usage.PNG](./PTO usage.PNG)
 
 # Scenario 4️⃣
-![Why work overtime.jpeg](./Why work overtime.jpeg)
+![Why work overtime.PNG](./Why work overtime.PNG)
 
 ![Analysis of work overtime.PNG](./Analysis of work overtime.PNG)
 
