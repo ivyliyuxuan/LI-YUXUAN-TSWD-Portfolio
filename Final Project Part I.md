@@ -120,6 +120,9 @@ The chart of final project will be designed and created with Tebleau, Inforgram,
 The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color.
  <br>
  <br>
+🥰Thanks for your reading. If you are interested in other works from my course portfolio of [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) at CMU, please feel free to visit my [Home Page](https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/). 
+ <br>
+ <br>
  <br>
  <br>
  <br>
