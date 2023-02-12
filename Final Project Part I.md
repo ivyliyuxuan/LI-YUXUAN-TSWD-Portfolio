@@ -1,4 +1,4 @@
-# Catalog of final project
+# Catalog of Final Project
 **Part I:** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md) <br>
 **Part II:** <br>
 **Part III:** <br>
