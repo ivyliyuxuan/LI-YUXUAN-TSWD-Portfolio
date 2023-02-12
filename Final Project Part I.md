@@ -1,8 +1,8 @@
 # Catalog of final project
-**Part I: ** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md)
-**Part II: **
-**Part III: **
-**Final website: **
+**Part I: ** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md) <br>
+**Part II: ** <br>
+**Part III: ** <br>
+**Final website: ** <br>
 
 # Outline
 ## Project Summary 📖
