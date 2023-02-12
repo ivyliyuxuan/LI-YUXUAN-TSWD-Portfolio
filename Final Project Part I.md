@@ -111,7 +111,9 @@ The sources of the data have been labeled below the individual sketches. Here ag
 [11]: [Who receives paid vacations? : U.s. Bureau of Labor Statistics](https://www.bls.gov/ebs/factsheets/paid-vacations.htm) <br>
 
 
-
+# Method and Medium
+The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva.
+The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color. <br>
 
 
 [^1]: Statistics on working time: The ILO Department of Statistics, https://ilostat.ilo.org/topics/working-time/
