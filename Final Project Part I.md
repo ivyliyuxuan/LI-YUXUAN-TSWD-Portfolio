@@ -2,16 +2,16 @@
 ## Project Summary 📖
 This project looks at the working overtime situation in the U.S..
 According to The ILO Department of Statistics, the average working hours in the United States are relatively short compared to countries like China and India. However, is it true that there is no overtime culture in the United States? Apparently, not so. Various social surveys and news reports show that employees in the U.S. suffer from significant overtime and are afraid to take vacations.
-To change this dilemma, to find the root cause, and to help the CMU students who will soon graduate and enter the workforce learn to refuse to work overtime, we need each of us to concern and analyze working overtime.
+To change this dilemma, to find the root cause, and to help the CMU students who will soon graduate and enter the workforce learn to refuse to work overtime, we need each of us to concern and analyze working overtime. <br> 
 
 ## Topic 🎯
-The working overtime situation in the U.S. and how to solve this dilemma.
+The working overtime situation in the U.S. and how to solve this dilemma. <br> 
 
 ## Reader Perspective 👨‍👨‍👧‍👦
-As an employee or a prospective employee, I want to see the current overtime situation in the United States, the root causes of overtime and how to avoid it, so that I can try to avoid working overtime in the future to achieve work-life balance.
+As an employee or a prospective employee, I want to see the current overtime situation in the United States, the root causes of overtime and how to avoid it, so that I can try to avoid working overtime in the future to achieve work-life balance. <br> 
 
 ## Call To Action 💪
-I can do this by refusing to work overtime meaningless because of anxiety, learning to balance life and work by keeping in mind the psychological and physical health hazards of overtime work. When overtime is so serious that it has infringed on my right, I will stand up to refuse and defend my right.
+I can do this by refusing to work overtime meaningless because of anxiety, learning to balance life and work by keeping in mind the psychological and physical health hazards of overtime work. When overtime is so serious that it has infringed on my right, I will stand up to refuse and defend my right. <br> 
 
 # Project Structure
 The whole story is divided into **7 big scenarios** of smaller story points: <br> 
@@ -27,22 +27,20 @@ The whole story is divided into **7 big scenarios** of smaller story points: <br
 Introduce the working hours in the countries of the world and compare with each other. <br>  
 The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per week per employed person is useful to the level of working overtime in the countries of the world[^1]. <br>  
 
-
-🥰Thanks for your reading. If you are interested in other works from my course portfolio of [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/) at CMU, please feel free to visit my [Home Page](https://ivyliyuxuan.github.io/LI-YUXUAN-TSWD-Portfolio/). 
-
-
 <div class='tableauPlaceholder' id='viz1676172349681' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Mapaverageworkhours&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676172349681');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='647px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='647px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+ <br> 
+ 
 # Scenario 2️⃣
 In this scenario, we will focus on the average working hours in the United States. <br> 
 The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Gallup Company and [report from U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm)[^3] will give us more inspiration. <br> 
 
 ![US weekly working hours.PNG](./US weekly working hours.PNG)
 ![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
-
+ <br> 
+ 
 # Scenario 3️⃣
 In this scenario, we will pay attention to the US paid time off situation and holiday usage data. <br> 
 If we compare the [paid Vacation and paid Holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
@@ -54,7 +52,8 @@ If we compare the [paid Vacation and paid Holidays of each OECD nations](https:/
 
 From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2020/79-percent-of-private-industry-workers-had-access-to-paid-vacation-leave-in-march-2019.htm)[^5] and the [news from 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/)[^6], we would find still some workers cannot have access to paid vacation or don't use it. <br> 
 ![PTO usage.PNG](./PTO usage.PNG)
-
+ <br> 
+ 
 # Scenario 4️⃣
 In this scenario, we will concern about the hazards of overtime work. <br> 
 
@@ -63,7 +62,8 @@ In this scenario, we will concern about the hazards of overtime work. <br>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676090680077');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+ <br> 
+ 
 # Scenario 5️⃣
 In this scenario, we will explore why employees work overtime even though there are so many hazards. <br> 
 the survey from the [news of 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/) will give us the answer. 8 of those 11 reasons are based in fear. And only 3 of those 11 reasons are not based in fear. But, they probably have a deeper root cause that is based in fear![^8]  <br> 
@@ -71,7 +71,7 @@ the survey from the [news of 20 Something Finance](https://20somethingfinance.co
 ![Why work overtime.PNG](./Why work overtime.PNG)
 
 ![Analysis of work overtime.PNG](./Analysis of work overtime.PNG)
-
+ <br> 
 
 # Scenario 6️⃣
 In this scenario, we will study what kind of people are more courageous to refuse to work overtime and have paid vacation. <br> 
@@ -93,13 +93,15 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676048934053');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+ <br> 
+ 
 # Scenario 7️⃣
 In this Scenario, we will call to reject meaningless working overtime. <br> 
 ![negative word cloud.PNG](./negative word cloud.PNG)
 
 ![positive word cloud.PNG](./positive word cloud.PNG)
-
+ <br> 
+ 
 # Data Source
 The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized. <br>
 [1]: [Statistics on working time: The ILO Department of Statistics](https://ilostat.ilo.org/topics/working-time/) <br>
