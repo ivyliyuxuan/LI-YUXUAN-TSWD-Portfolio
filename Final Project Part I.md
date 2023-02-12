@@ -101,7 +101,7 @@ In this Scenario, we will call to reject meaningless working overtime. <br>
 ![positive word cloud.PNG](./positive word cloud.PNG)
 
 # Data Source
-The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized.
+The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized. <br>
 [1]: [Statistics on working time: The ILO Department of Statistics](https://ilostat.ilo.org/topics/working-time/) <br>
 [2]: [Work and Workplace: Gallup Historical Trends](https://news.gallup.com/poll/1720/work-work-place.aspx) <br>
 [3]: [Average hours per day spent in selected activities on days worked by employment status and sex: U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm) <br>
@@ -116,7 +116,7 @@ The sources of the data have been labeled below the individual sketches. Here ag
 
 
 # Method and Medium
-The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva.
+The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
 The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color.
  <br>
  <br>
