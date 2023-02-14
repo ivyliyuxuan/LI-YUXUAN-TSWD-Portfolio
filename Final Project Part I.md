@@ -30,7 +30,7 @@ The whole story is divided into **7 big scenarios** of smaller story points: <br
 **Scenario 7:** Call to reject meaningless working overtime. <br> 
  <br>
  <br>
-✨**Feedback from Classmate:** Combine some scenario and give small stories in each scenario. The logic can be "Introduction-Fact-Cause-Solution".
+✨**Feedback from Classmates:** Combine some scenario and give small stories in each scenario. The logic can be "Introduction-Fact-Cause-Solution".
  <br>
  <br>
 # Scenario 1️⃣ WoW! It seems that in the U.S. overtime is not serious
@@ -50,7 +50,7 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
 
 ![US weekly working hours.PNG](./US weekly working hours.PNG)
  <br>
-✨**Feedback from Classmate:** The difference between different reds is not obvious, you can use green-gray-red to distinguish.
+✨**Feedback from Classmates:** The difference between different reds is not obvious, you can use green-gray-red to distinguish.
  <br>
  <br>
 ![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
@@ -65,13 +65,13 @@ If we compare the [paid Vacation and paid Holidays of each OECD nations](https:/
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676052212812');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
-✨**Feedback from Classmate:** Use red to make the U.S. more vibrant
+✨**Feedback from Classmates:** Use red to make the U.S. more vibrant
  <br>
  <br>
 From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2020/79-percent-of-private-industry-workers-had-access-to-paid-vacation-leave-in-march-2019.htm)[^5] and the [news from 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/)[^6], we would find still some workers cannot have access to paid vacation or don't use it. <br> 
 ![PTO usage.PNG](./PTO usage.PNG)
  <br>
-✨**Feedback from Classmate:** Delete the lines in the chart between sector chart and number, because they have the same color.
+✨**Feedback from Classmates:** Delete the lines in the chart between sector chart and number, because they have the same color.
  <br> 
  
 # Scenario 4️⃣ Working overtime? What about the negatives?
@@ -102,14 +102,14 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676076804560');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
-✨**Feedback from Classmate:** Divide the chart to two divisions. One is for the all workers and the other one is for each wage. Also can change the type of the chart. And can devide the worker into the lowest 10%, the lowest 10% to 25% and so on. <br> 
+✨**Feedback from Classmates:** Divide the chart to two divisions. One is for the all workers and the other one is for each wage. Also can change the type of the chart. And can devide the worker into the lowest 10%, the lowest 10% to 25% and so on. <br> 
  <br>
 <div class='tableauPlaceholder' id='viz1676078486435' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676078486435');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
-✨**Feedback from Classmate:** Also can change the type of the chart. <br>
+✨**Feedback from Classmates:** Also can change the type of the chart. <br>
  <br>
 
 <div class='tableauPlaceholder' id='viz1676048934053' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
@@ -117,7 +117,7 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676048934053');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
-✨**Feedback from Classmate:** Change the title to like "Our students of CMU will enter the industries more likely to access to paid vacation" to attract the viewers in the presentation.
+✨**Feedback from Classmates:** Change the title to like "Our students of CMU will enter the industries more likely to access to paid vacation" to attract the viewers in the presentation.
  <br> 
  <br>
  
