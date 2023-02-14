@@ -11,7 +11,7 @@ According to The ILO Department of Statistics, the average working hours in the 
 To change this dilemma, to find the root cause, and to help the CMU students who will soon graduate and enter the workforce learn to refuse to work overtime, we need each of us to concern and analyze working overtime. <br> 
 
 ## Topic 🎯
-The working overtime situation in the U.S. and how to solve this dilemma. <br> 
+How to solve the dilemma of working overtime in the U.S. <br> 
 
 ## Reader Perspective 👨‍👨‍👧‍👦
 As an employee or a prospective employee, I want to see the current overtime situation in the United States, the root causes of overtime and how to avoid it, so that I can try to avoid working overtime in the future to achieve work-life balance. <br> 
