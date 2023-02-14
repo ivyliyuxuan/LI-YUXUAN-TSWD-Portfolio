@@ -19,6 +19,10 @@ As an employee or a prospective employee, I want to see the current overtime sit
 ## Call To Action 💪
 I can do this by refusing to work overtime meaningless because of anxiety, learning to balance life and work by keeping in mind the psychological and physical health hazards of overtime work. When overtime is so serious that it has infringed on my right, I will stand up to refuse and defend my right. <br> 
 
+## The Story Arc 💕
+![The story arc](https://user-images.githubusercontent.com/107164906/218653890-7410b704-c08e-47ee-877f-4716bfa1a4b9.jpg)
+ <br>
+ 
 # Project Structure
 The whole story is divided into **7 big scenarios** of smaller story points: <br> 
 **Scenario 1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
