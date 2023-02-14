@@ -131,7 +131,7 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 </script>
  <br>
 ✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Change the title to like "Our students of CMU will enter the industries more likely to access to paid vacation" to attract the viewers in the presentation. </td></tr></table>
+   <table><tr><td bgcolor=MistyRose> Change the title to like "The industries CMU students will enter after graduation are more likely to access to paid vacation" to attract the viewers in the presentation. </td></tr></table>
  <br> 
  <br>
  
