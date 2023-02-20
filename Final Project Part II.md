@@ -71,7 +71,7 @@ From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/te
  <br>
 **"21% of U.S. private industry workers would tell you that they don't have access to paid holidays. Crazy, right?"** <br>
  <br>
-**What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.** <br>
+**“What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.”** <br>
  <br>
 ![PTO usage.PNG](./PTO usage.PNG)
  <br>
@@ -80,10 +80,11 @@ From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/te
 In this scenario, we will concern about the hazards of overtime work. <br> 
 
 [Prevalence of depression, anxiety, PTSD, and suicidal ideation](https://www.statista.com/statistics/1255169/mental-health-conditions-among-health-workers-by-hours-worked-per-week-us/) among public health workers in the United States as of April 2021, by hours worked per week will give us more idea[^7]. <br> 
-<div class='tableauPlaceholder' id='viz1676090680077' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;me&#47;mentalhealth_16759654706020&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='mentalhealth_16759654706020&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;me&#47;mentalhealth_16759654706020&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1676090680077');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+
+**“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger.”**
+<div class="flourish-embed" data-src="visualisation/12799114" data-width="1100px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+ <br>
  <br> 
  
 # Scenario 5️⃣ With so many hazards, why do we still work overtime?
