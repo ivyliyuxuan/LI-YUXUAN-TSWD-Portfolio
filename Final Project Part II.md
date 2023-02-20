@@ -16,14 +16,14 @@ How to solve the dilemma of working overtime in the U.S. <br><br>
 ## Project Structure
 The whole story is divided into **5 big scenarios** with some small stories: <br> 
 **Scenario 1:** Setup - Look into the status of overtime in the United States
-&emsp **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
-&emsp **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
-&emsp **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+&emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
+&emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
+&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
 **Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
 **Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
 **Scenario 4:** Resolution - How to refuse to work overtime
-&emsp **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
-&emsp **Story 4.2:** How to become a person who can refuse to work overtime
+&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
+&emsp; **Story 4.2:** How to become a person who can refuse to work overtime
 **Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
  <br>
  <br>
@@ -208,6 +208,8 @@ I have shared the wireframes with three other people and collected feedback. The
 ## For charts
 1️⃣ Redesign the chart which presents that manufacturing, finance and information industries are more likely to have paid leave benefits. It may be possible to place these three industries in the main view area of the audience, in the upper left corner, and give a relatively large area. And the other industries in a smaller area in the lower right corner. <br>
 2️⃣ Redesign the chart which presents the longer service requirement brings longer vacation. It might be possible to make the chart less cluttered by adding control to allow viewers to choose between private industry or the state and local government. <br>
+
+
 
 
 # Data Source 📊
