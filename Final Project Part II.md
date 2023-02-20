@@ -136,6 +136,7 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676048934053');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
+### Story 4.2: How to become a person who can refuse to work overtime
 
  <br> 
  <br>
@@ -157,7 +158,8 @@ Because the call to action of this whole project is to ask for workers to stand 
 I will be graduating from Carnegie Mellon this May and will start working after that. My classmates are the same. So all of my classmates are potential employees. Meanwhile, my seniors, they have started working for about 6 years, so they are most likely the employees who are suffering from overtime. 
 To diversify the interviewees, the individuals chosen have different working experience and education experience. Some haven't started working yet, but some have been working for 5 years. Some are working in the financial industry, but some are working in the technology industry. 
 
-## Interview script
+## Interview record
+
 
 
 # Data Source 📊
