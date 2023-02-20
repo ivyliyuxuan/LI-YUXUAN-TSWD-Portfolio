@@ -44,7 +44,9 @@ The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per we
  <br> 
 ### Story 1.2: (small conflict) Focus on the average working hours in the United States.
 After the audience is satisfied with the current state of overtime in America, I want to set up a small conflict here to grab the audience's attention. Here, I will focus on the average working hours in the United States. <br> 
+ <br>
 The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Gallup Company and [report from U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm)[^3] will give us more inspiration. <br> 
+ <br>
 **“But the U.S. employees are also working overtime..."**
  <br>
 <script id="infogram_0_b3296a7f-0b07-43f6-9f21-cb12ecc4f358" title="U.S. Average Weekly Working Hours" src="https://e.infogram.com/js/dist/embed.js?7oB" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b3296a7f-0b07-43f6-9f21-cb12ecc4f358" style="color:#989898!important;text-decoration:none!important;" target="_blank">U.S. Average Weekly Working Hours</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
@@ -54,27 +56,27 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
 ![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
  <br> 
  
-# Scenario 3️⃣ No vacation? Don't dare to take a vacation?
+### Story 1.3: Pay attention to the US paid time off situation and holiday usage data.
 In this scenario, we will pay attention to the US paid time off situation and holiday usage data. <br> 
+ <br>
 If we compare the [paid Vacation and paid Holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
+ <br>
+**“The U.S. remains the only advanced economy in the world that does not guarantee its workers paid vacation and holidays."**
+ <br>
 
-<div class='tableauPlaceholder' id='viz1676052212812' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidVacationandPaidHolidays&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PaidVacationandPaidHolidays&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidVacationandPaidHolidays&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1676052212812');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<iframe src='https://flo.uri.sh/visualisation/12806064/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:1100px;height:700px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12806064/?utm_source=embed&utm_campaign=visualisation/12806064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
  <br>
-✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Use red to make the U.S. more vibrant </td></tr></table>
- <br>
- <br>
+
 From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2020/79-percent-of-private-industry-workers-had-access-to-paid-vacation-leave-in-march-2019.htm)[^5] and the [news from 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/)[^6], we would find still some workers cannot have access to paid vacation or don't use it. <br> 
+ <br>
+**"21% of U.S. private industry workers would tell you that they don't have access to paid holidays. Crazy, right?"** <br>
+ <br>
+**What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.** <br>
+ <br>
 ![PTO usage.PNG](./PTO usage.PNG)
  <br>
-✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Delete the lines in the chart between sector chart and number, because they have the same color. </td></tr></table>
- <br> 
  
-# Scenario 4️⃣ Working overtime? What about the negatives?
+# Scenario 2️⃣: Conflict- Concern about the hazards of overtime work.
 In this scenario, we will concern about the hazards of overtime work. <br> 
 
 [Prevalence of depression, anxiety, PTSD, and suicidal ideation](https://www.statista.com/statistics/1255169/mental-health-conditions-among-health-workers-by-hours-worked-per-week-us/) among public health workers in the United States as of April 2021, by hours worked per week will give us more idea[^7]. <br> 
