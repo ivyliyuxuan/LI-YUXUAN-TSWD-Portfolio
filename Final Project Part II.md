@@ -160,6 +160,7 @@ To diversify the interviewees, the individuals chosen have different working exp
 
 ## Interview record
 I have shared the wireframes with three other people and collected feedback. The following are the relevant records:<br>
+ <br>
 👧 **The first interviewee: new graduate student, female, 23 years old** <br>
 
 | Questions | Answer from the first interviewee |
@@ -176,7 +177,7 @@ I have shared the wireframes with three other people and collected feedback. The
 
 | Questions | Answer from the first interviewee |
 | --------------------- | ---------------------  |
-| Are all the storyboards clear and closely related to the main topic ? | I think it's clear and closely related to the main topic, but I would like to see the cover and the small cover of each Scenario. Now I can only see how the short stories in each chapter will be presented, but not the cover and other designs in the pages. |
+| Are all the storyboards clear and closely related to the main topic ? | I think it's clear and closely related to the main topic, but I would like to see the cover and the small cover of each scenario. Now I can only see how the short stories in each chapter will be presented, but not the cover and other designs in the pages. |
 | Is there anything you find surprising? What works well in charts? | I really like the conflict brought by the first chart and the second chart. The author uses the first chart to tell us that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad. However, in the second chart, we can find that the U.S. employees are also working overtime. This conflict in these two charts really interested and surprised me. |
 | Is there anything you find confusing? What doesn’t work well in charts? | I don't like the design of chart to present longer service requirement brings longer vacation. It's design is a bit dull. Although I can understand the meaning of the chart, I think the design of the chart does not give me visual enjoyment and I hope the author can further optimize it.  |
 | Do you think the color parttern design suit the topic well? | The color palette is very simple to follow. Because overtime is such a depressing topic, it's fitting that the author used a dark background in some of the charts. Also, I really like the author's use of red and gray together. In this case, the red represents important information with a warning message, while the gray is a secondary message. This allows the viewer to notice the important information at first glance. Also, I noticed that the author used the warm sun as a background in the section about vacations, which is very appropriate. Also, the positive information about the vacation, etc. is in green, which makes it easy for the viewer to pick up on it. |
@@ -197,6 +198,17 @@ I have shared the wireframes with three other people and collected feedback. The
 
  <br>
  <br>
+# Main Findings & Possible changes
+## For Logic and content
+1️⃣ Add more information on how to solve or avoid the overtime problem, as this is the part that the audience cares most about. <br>
+## For design 
+1️⃣ Add a tab directory or other cue to give the audience a clearer idea of the structure. <br>
+2️⃣ Give a well design of the cover. <br>
+3️⃣ Redesign the last call on part. Maybe I can use some dynamic charts etc. to increase the visual experience of the audience. <br>
+## For charts
+1️⃣ Redesign the chart which presents that manufacturing, finance and information industries are more likely to have paid leave benefits. It may be possible to place these three industries in the main view area of the audience, in the upper left corner, and give a relatively large area. And the other industries in a smaller area in the lower right corner. <br>
+2️⃣ Redesign the chart which presents the longer service requirement brings longer vacation. It might be possible to make the chart less cluttered by adding control to allow viewers to choose between private industry or the state and local government. <br>
+
 
 # Data Source 📊
 The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized. <br><br>
