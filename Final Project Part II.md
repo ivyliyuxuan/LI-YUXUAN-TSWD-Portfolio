@@ -80,7 +80,7 @@ From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/te
 ![PTO usage.PNG](./PTO usage.PNG)
  <br>
  
-# Scenario 2️⃣: Conflict- Concern about the hazards of overtime work.
+# Scenario 2️⃣: Conflict - Concern about the hazards of overtime work.
 **“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger.”**
  <br>
  <br>
