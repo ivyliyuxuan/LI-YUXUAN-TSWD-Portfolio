@@ -50,6 +50,12 @@ Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](T
 ## ⛳Final Project Part I
 Hello. Here is my [Final Project Part I](Final Project Part I.md)!
 
+## ⛳Final Project Part II
+Hello. Here is my [Final Project Part II](Final Project Part II.md)!
+
+## ⛳Final Project Part III
+Hello. Here is my [Final Project Part III](Final Project Part III.md)!
+
 # Useful Tools Learned from TWSD Course
 ## 📊Visualization Tool
 1️⃣ [Flourish](https://flourish.studio/) <br>
