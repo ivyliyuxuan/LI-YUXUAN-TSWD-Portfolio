@@ -111,7 +111,7 @@ In this scenario, we will study what kind of people are more courageous to refus
  <br> 
 **"Higher paid workers more likely to have paid leave benefits, for both paid vacation and paid holidays"** <br>
  <br>
-**"Longer service requirement brings longer vacation in 2020"** <br>
+**"Longer service requirement brings longer vacation"** <br>
  <br>
 **"If you work in the manufacturing, finance or information industries, then you're in luck."** <br>
  <br>
