@@ -159,8 +159,44 @@ I will be graduating from Carnegie Mellon this May and will start working after 
 To diversify the interviewees, the individuals chosen have different working experience and education experience. Some haven't started working yet, but some have been working for 5 years. Some are working in the financial industry, but some are working in the technology industry. 
 
 ## Interview record
+I have shared the wireframes with three other people and collected feedback. The following are the relevant records:<br>
+👧 **The first interviewee: new graduate student, female, 23 years old** <br>
 
+| Questions | Answer from the first interviewee |
+| --------------------- | ---------------------  |
+| Are all the storyboards clear and closely related to the main topic ? | It's clear and closely related to the main topic, but the style in which the interface is scrolled breaks the link between parts. So hopefully a tab directory or other cue can be added to give the audience a clearer idea of the structure. |
+| Is there anything you find surprising? What works well in charts? | xxxxx  |
+| Is there anything you find confusing? What doesn’t work well in charts? | xxxxx  |
+| Do you think the color parttern design suit the topic well? | The color scheme is quite simple to understand.  |
+| How engaged do you feel about the whole story? Will you respond to the call to action? | This content is of great interest to me because I am about to enter the workplace. I've heard a lot of stories about overtime, and it scares me a lot. I am desperate for the overtime culture to change. So I'm so engaged about the whole story. I have become clearly aware of the dangers of working overtime. If I also encounter unreasonable overtime arrangements in the future, I hope I can bravely refuse them instead of suffering them in silence.  |
 
+ <br>
+ <br>
+👨‍🦲 **The second interviewee: adult with 6 years of experience in financial services, investor, male, 30 years old** <br>
+
+| Questions | Answer from the first interviewee |
+| --------------------- | ---------------------  |
+| Are all the storyboards clear and closely related to the main topic ? | I think it's clear and closely related to the main topic, but I would like to see the cover and the small cover of each Scenario. Now I can only see how the short stories in each chapter will be presented, but not the cover and other designs in the pages. |
+| Is there anything you find surprising? What works well in charts? | xxxxx  |
+| Is there anything you find confusing? What doesn’t work well in charts? | xxxxx  |
+| Do you think the color parttern design suit the topic well? | The color palette is very simple to follow.  |
+| How engaged do you feel about the whole story? Will you respond to the call to action? | I'm so engaged about the whole story. Nowadays, overtime in the financial industry is very serious, and I often have to work late. In the past 6 years, I often neglected my family or friends because of overtime, which made me sad. But because of the serious overtime culture in the company, I often dare not refuse to work overtime. However, after seeing that so many other countries have legal paid leave and there are still many ways to avoid overtime, I think I will try my best to avoid overtime in my future work.  |
+
+ <br>
+ <br>
+
+🧑 **The third interviewee: adult with 2 years of experience in technology companies, Algorithm Engineer, male, 25 years old** <br>
+
+| Questions | Answer from the first interviewee |
+| --------------------- | ---------------------  |
+| Are all the storyboards clear and closely related to the main topic ? | It's clear and closely related to the main topic, but because there is so much of content, I would like to give a side note, especially on how to solve the overtime problem. I'm going through overtime right now, so I'm very eager to know how to fix it. |
+| Is there anything you find surprising? What works well in charts? | xxxxx  |
+| Is there anything you find confusing? What doesn’t work well in charts? | xxxxx  |
+| Do you think the color parttern design suit the topic well? | The use of color is very appropriate and allows me to notice key elements at once. For example, when I see red, I know it is important information with a warning meaning, while green is representing a relatively good situation. However, since I haven't seen the complete finished webpage, I can't yet judge whether the color scheme of the whole webpage is harmonious, which involves the author's aesthetic and design ability.  |
+| How engaged do you feel about the whole story? Will you respond to the call to action? | I'm completely engaged in the entire story. My boss always gives me a lot of whimsical demands. And I was afraid of being fired because I was an employee who had just joined the company for two years, so I was always afraid to refuse overtime work. Through this story, I found that many people, like me, are afraid to refuse to work overtime because of the fundamental reason. This made me start to reflect on it. At the same time, seeing that overtime has so many hazards, I hope I can learn several ways to avoid overtime mentioned in the story to reduce overtime. |
+
+ <br>
+ <br>
 
 # Data Source 📊
 The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized. <br><br>
