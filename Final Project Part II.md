@@ -31,11 +31,12 @@ The whole story is divided into **5 big scenarios** with some small stories: <br
 # Wireframes and storyboards
 ## Scenario 1️⃣: Setup - Look into the status of overtime in the United States
 ### Story 1.1: Introduce the working hours in the countries of the world and compare with each other.
+**“From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”**
+ <br>
+ <br>
 At the beginning of the story, we will introduce the working hours in the countries of the world and compare with each other. <br>  
 At this point, viewers may be satisfied with the overtime situation in the United States. WoW! It seems that in the U.S. overtime is not serious Introduce the working hours in the countries of the world and compare with each other.<br>
 The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per week per employed person is useful to the level of working overtime in the countries of the world[^1]. <br>  
-**“From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”**
- <br>
 
 <div class='tableauPlaceholder' id='viz1676172349681' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Mapaverageworkhours&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
 </div>                
@@ -43,11 +44,13 @@ The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per we
 </script>
  <br> 
 ### Story 1.2: (small conflict) Focus on the average working hours in the United States.
+**“But the U.S. employees are also working overtime..."** <br>
+ <br>
 After the audience is satisfied with the current state of overtime in America, I want to set up a small conflict here to grab the audience's attention. Here, I will focus on the average working hours in the United States. <br> 
  <br>
 The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Gallup Company and [report from U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm)[^3] will give us more inspiration. <br> 
  <br>
-**“But the U.S. employees are also working overtime..."**
+
  <br>
 <script id="infogram_0_b3296a7f-0b07-43f6-9f21-cb12ecc4f358" title="U.S. Average Weekly Working Hours" src="https://e.infogram.com/js/dist/embed.js?7oB" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b3296a7f-0b07-43f6-9f21-cb12ecc4f358" style="color:#989898!important;text-decoration:none!important;" target="_blank">U.S. Average Weekly Working Hours</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
@@ -59,9 +62,10 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
 ### Story 1.3: Pay attention to the US paid time off situation and holiday usage data.
 In this scenario, we will pay attention to the US paid time off situation and holiday usage data. <br> 
  <br>
-If we compare the [paid Vacation and paid Holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
- <br>
 **“The U.S. remains the only advanced economy in the world that does not guarantee its workers paid vacation and holidays."**
+ <br>
+ <br>
+If we compare the [paid Vacation and paid Holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
  <br>
 
 <iframe src='https://flo.uri.sh/visualisation/12806064/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:1100px;height:700px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12806064/?utm_source=embed&utm_campaign=visualisation/12806064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -77,17 +81,21 @@ From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/te
  <br>
  
 # Scenario 2️⃣: Conflict- Concern about the hazards of overtime work.
+**“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger.”**
+ <br>
+ <br>
 In this scenario, we will concern about the hazards of overtime work. <br> 
 
 [Prevalence of depression, anxiety, PTSD, and suicidal ideation](https://www.statista.com/statistics/1255169/mental-health-conditions-among-health-workers-by-hours-worked-per-week-us/) among public health workers in the United States as of April 2021, by hours worked per week will give us more idea[^7]. <br> 
 
-**“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger.”**
+
 <div class="flourish-embed" data-src="visualisation/12799114" data-width="1100px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
  <br>
  <br> 
  
-# Scenario 5️⃣ With so many hazards, why do we still work overtime?
+# Scenario 3️⃣: In-depth exploration - Explore why employees work overtime even though there are so many hazards.
+**"With so many hazards, why do we still work overtime? Fear is the root root cause"** <br>
 In this scenario, we will explore why employees work overtime even though there are so many hazards. <br> 
 the survey from the [news of 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/) will give us the answer. 8 of those 11 reasons are based in fear. And only 3 of those 11 reasons are not based in fear. But, they probably have a deeper root cause that is based in fear![^8]  <br> 
 
@@ -113,8 +121,7 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676078486435');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
-✨**Feedback from Classmates:** 
- <table><tr><td bgcolor=MistyRose> Also can change the type of the chart. </td></tr></table>
+
  <br>
  <br>
 
@@ -123,8 +130,7 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676048934053');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br>
-✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Change the title to like "The industries CMU students will enter after graduation are more likely to access to paid vacation" to attract the viewers in the presentation. </td></tr></table>
+
  <br> 
  <br>
  
