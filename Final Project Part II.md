@@ -108,14 +108,19 @@ the survey from the [news of 20 Something Finance](https://20somethingfinance.co
 ## Scenario 4️⃣: Resolution - How to refuse to work overtime
 ### Story 4.1: Study what kind of people are more courageous to refuse to work overtime.
 In this scenario, we will study what kind of people are more courageous to refuse to work overtime and have paid vacation. <br> 
+ <br> 
+**"Higher paid workers more likely to have paid leave benefits, for both paid vacation and paid holidays"** <br>
+ <br>
+**"Longer service requirement brings longer vacation in 2020"** <br>
+ <br>
+**"If you work in the manufacturing, finance or information industries, then you're in luck."** <br>
+ <br>
 From the data of U.S. Bureau of Labor Statistics, we could find that [higher paid](https://www.bls.gov/opub/ted/2021/higher-paid-workers-more-likely-than-lower-paid-workers-to-have-paid-leave-benefits-in-2020.htm) workers are more likely than lower paid workers to have paid leave benefits[^9]. And [longer service requirement](https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm) more likely to have longer vacation[^10]. As for [industry](https://www.bls.gov/ebs/factsheets/paid-vacations.htm), manufacturing, finance and information industries are more likely to have paid leave benefits[^11].
 
-<div class='tableauPlaceholder' id='viz1676076804560' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;Higherpaidworker&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Higherpaidworker&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;Higherpaidworker&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1676076804560');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
-<br>
+![Higher paid with more Paid days 2.jpeg](./paid days 2.jpeg)
 
+ <br>
+ <br>
  <br>
 <div class='tableauPlaceholder' id='viz1676078486435' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
 </div>                
@@ -135,13 +140,26 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
  <br> 
  <br>
  
-# Scenario 7️⃣ Stand up to refuse overtime work
+## Scenario 5️⃣: Call on - Call to reject meaningless working overtime.
+**"Please stand up to refuse overtime work"**
 In this Scenario, we will call to reject meaningless working overtime. <br> 
 ![negative word cloud.PNG](./negative word cloud.PNG)
-
+ <br>
 ![positive word cloud.PNG](./positive word cloud.PNG)
  <br> 
  
+# User Research and interviews 👂
+## Target audience
+The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime.
+Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content.
+
+## Approach to identifying representative individuals to interview
+I will be graduating from Carnegie Mellon this May and will start working after that. My classmates are the same. So all of my classmates are potential employees. Meanwhile, my seniors, they have started working for about 6 years, so they are most likely the employees who are suffering from overtime. 
+To diversify the interviewees, the individuals chosen have different working experience and education experience. Some haven't started working yet, but some have been working for 5 years. Some are working in the financial industry, but some are working in the technology industry. 
+
+## Interview script
+
+
 # Data Source 📊
 The sources of the data have been labeled below the individual sketches. Here again, the data sources are summarized. <br><br>
 
@@ -160,12 +178,9 @@ The sources of the data have been labeled below the individual sketches. Here ag
 | [Who receives paid vacations? : U.s. Bureau of Labor Statistics](https://www.bls.gov/ebs/factsheets/paid-vacations.htm) | The data shows which industries have more paid vacation  |
 
 
-<br>
+ <br>
 
 
-# Method and Medium
-The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
-The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color.
  <br>
  <br>
  <br>
