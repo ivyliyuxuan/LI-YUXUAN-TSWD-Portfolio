@@ -1,6 +1,6 @@
 # Catalog of Final Project
 **Part I:** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md) <br>
-**Part II:** <br>
+**Part II:** [storyboards and user research](Final Project Part II.md)<br>
 **Part III:** <br>
 **Final website:** <br>
 
@@ -12,53 +12,43 @@ To change this dilemma, to find the root cause, and to help the CMU students who
 
 ## Topic 🎯
 How to solve the dilemma of working overtime in the U.S. <br><br> 
-✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Can add the CMU students to tittle, like CMU students how to refuse work overtime, to attract our classmates! </td></tr></table>
-
-## Reader Perspective 👨‍👨‍👧‍👦
-As an employee or a prospective employee, I want to see the current overtime situation in the United States, the root causes of overtime and how to avoid it, so that I can try to avoid working overtime in the future to achieve work-life balance. <br> 
-
-## Call To Action 💪
-I can do this by refusing to work overtime meaningless because of anxiety, learning to balance life and work by keeping in mind the psychological and physical health hazards of overtime work. When overtime is so serious that it has infringed on my right, I will stand up to refuse and defend my right. <br> 
-
-## The Story Arc 💕
-![The story arc](https://user-images.githubusercontent.com/107164906/218653890-7410b704-c08e-47ee-877f-4716bfa1a4b9.jpg)
- <br>
  
-# Project Structure
-The whole story is divided into **7 big scenarios** of smaller story points: <br> 
-**Scenario 1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
-**Scenario 2:** Focus on the average working hours in the United States. <br> 
-**Scenario 3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
-**Scenario 4:** Concern about the hazards of overtime work. <br> 
-**Scenario 5:** Explore why employees work overtime even though there are so many hazards. <br> 
-**Scenario 6:** Study what kind of people are more courageous to refuse to work overtime. <br> 
-**Scenario 7:** Call to reject meaningless working overtime. <br> 
+## Project Structure
+The whole story is divided into **5 big scenarios** with some small stories: <br> 
+**Scenario 1:** Setup - Look into the status of overtime in the United States
+&emsp **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
+&emsp **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
+&emsp **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
+**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
+**Scenario 4:** Resolution - How to refuse to work overtime
+&emsp **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
+&emsp **Story 4.2:** How to become a person who can refuse to work overtime
+**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
  <br>
  <br>
-✨**Feedback from Classmates:** 
-   <table><tr><td bgcolor=MistyRose> Combine some scenario and give small stories in each scenario. The logic can be "Introduction-Fact-Cause-Solution". </td></tr></table>
  <br>
-# Scenario 1️⃣ WoW! It seems that in the U.S. overtime is not serious
-Introduce the working hours in the countries of the world and compare with each other. <br>  
+# Wireframes and storyboards
+## Scenario 1️⃣: Setup - Look into the status of overtime in the United States
+### Story 1.1: Introduce the working hours in the countries of the world and compare with each other.
+At the beginning of the story, we will introduce the working hours in the countries of the world and compare with each other. <br>  
+At this point, viewers may be satisfied with the overtime situation in the United States. WoW! It seems that in the U.S. overtime is not serious Introduce the working hours in the countries of the world and compare with each other.<br>
 The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per week per employed person is useful to the level of working overtime in the countries of the world[^1]. <br>  
-“ From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”
+**“From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”**
+ <br>
 
 <div class='tableauPlaceholder' id='viz1676172349681' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Mapaverageworkhours&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Mapaverageworkhours&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1676172349681');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='647px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='647px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
  <br> 
- 
-# Scenario 2️⃣ But the U.S. employees are also working overtime...
-In this scenario, we will focus on the average working hours in the United States. <br> 
+### Story 1.2: (small conflict) Focus on the average working hours in the United States.
+After the audience is satisfied with the current state of overtime in America, I want to set up a small conflict here to grab the audience's attention. Here, I will focus on the average working hours in the United States. <br> 
 The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Gallup Company and [report from U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm)[^3] will give us more inspiration. <br> 
-
-![US weekly working hours.PNG](./US weekly working hours.PNG)
+**“But the U.S. employees are also working overtime..."**
  <br>
-✨**Feedback from Classmates:**
-   <table><tr><td bgcolor=MistyRose> Can add the CMU students to tittle, like CMU students how to refuse work overtime, to attract our classmates! </td></tr></table>
-The difference between different reds is not obvious, you can use green-gray-red to distinguish.
+<script id="infogram_0_b3296a7f-0b07-43f6-9f21-cb12ecc4f358" title="U.S. Average Weekly Working Hours" src="https://e.infogram.com/js/dist/embed.js?7oB" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b3296a7f-0b07-43f6-9f21-cb12ecc4f358" style="color:#989898!important;text-decoration:none!important;" target="_blank">U.S. Average Weekly Working Hours</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
  <br>
  <br>
 ![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
