@@ -156,7 +156,7 @@ In this Scenario, we will call to reject meaningless working overtime. <br>
  <br> 
  
 # Moodboard 🎨
-![Moodboard.PNG](./Moodboard.PNG)
+![Moodboard.png](./Moodboard.png)
  
 # User Research and interviews 👂
 ## Target audience
