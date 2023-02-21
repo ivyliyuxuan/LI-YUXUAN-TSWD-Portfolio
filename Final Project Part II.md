@@ -54,7 +54,8 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
  <br>
 
  <br>
-<script id="infogram_0_b3296a7f-0b07-43f6-9f21-cb12ecc4f358" title="U.S. Average Weekly Working Hours" src="https://e.infogram.com/js/dist/embed.js?7oB" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b3296a7f-0b07-43f6-9f21-cb12ecc4f358" style="color:#989898!important;text-decoration:none!important;" target="_blank">U.S. Average Weekly Working Hours</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+![U.S. Average Weekly Working Hours.PNG](./U.S. Average Weekly Working Hours.PNG)
+
 
  <br>
  <br>
