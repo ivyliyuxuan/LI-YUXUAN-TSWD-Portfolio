@@ -142,11 +142,11 @@ From the data of U.S. Bureau of Labor Statistics, we could find that [higher pai
 </script>
  <br>
 ### Story 4.2: How to become a person who can refuse to work overtime
-![how to refuse 1.png](./how to refuse 1.png)
+![how to refuse 1.JPG](./how to refuse 1.JPG)
  <br> 
-![how to refuse 2.png](./how to refuse 2.png)
+![how to refuse 2.JPG](./how to refuse 2.JPG)
  <br> 
-![how to refuse 3.png](./how to refuse 3.png)
+![how to refuse 3.JPG](./how to refuse 3.JPG)
  <br> 
  <br>
  
