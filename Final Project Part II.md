@@ -29,6 +29,10 @@ The whole story is divided into **5 big scenarios** with some small stories: <br
  <br>
  <br>
 # Wireframes and storyboards
+## Cover
+![cover.JPG](./cover.JPG)
+ <br>
+
 ## Scenario 1️⃣: Setup - Look into the status of overtime in the United States
 ### Story 1.1: Introduce the working hours in the countries of the world and compare with each other.
 **“From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”**
