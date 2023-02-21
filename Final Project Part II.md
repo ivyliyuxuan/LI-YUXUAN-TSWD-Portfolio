@@ -59,7 +59,7 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
 
  <br>
  <br>
-![US working hours per day by sex.PNG](./US working hours per day by sex.PNG)
+![U.S. Average Weekly Working Hours.PNG](./U.S. Average Weekly Working Hours.PNG)
  <br> 
  
 ### Story 1.3: Pay attention to the US paid time off situation and holiday usage data.
