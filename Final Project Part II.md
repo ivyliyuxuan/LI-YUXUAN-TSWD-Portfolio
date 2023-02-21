@@ -54,7 +54,7 @@ The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Ga
  <br>
 
  <br>
-![U.S. Average Weekly Working Hours.PNG](./U.S. Average Weekly Working Hours.PNG)
+![Focus on USA.PNG](./Focus on USA.PNG)
 
 
  <br>
