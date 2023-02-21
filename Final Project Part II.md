@@ -65,7 +65,7 @@ In this scenario, we will pay attention to the US paid time off situation and ho
 **“The U.S. remains the only advanced economy in the world that does not guarantee its workers paid vacation and holidays."**
  <br>
  <br>
-If we compare the [paid Vacation and paid Holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
+If we compare the [total paid vacation and paid holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
  <br>
 
 <iframe src='https://flo.uri.sh/visualisation/12806064/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:1100px;height:700px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12806064/?utm_source=embed&utm_campaign=visualisation/12806064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -201,6 +201,11 @@ I have shared the wireframes with three other people and collected feedback. The
 
  <br>
  <br>
+ 
+# Suggestions from classmates 👩‍🎓👨‍🎓
+1️⃣ Call to use more paid time off in the call to the last Call on part. <br>
+2️⃣ Edit the chart about total paid vacation and paid holidays of each OECD nations, letting it give more focus on 0 by larger size. And only pick top 5 coutries to compare with the U.S.
+ 
 # Main Findings & Possible changes
 ## For Logic and content
 1️⃣ Add more information on how to solve or avoid the overtime problem, as this is the part that the audience cares most about. <br>
