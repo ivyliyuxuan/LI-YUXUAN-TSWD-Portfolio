@@ -53,6 +53,9 @@ Hello. Here is my [In-Class Exercise: Building Gapminder in Tableau](Building Ga
 ## In-Class Exercise: Historical Olympic Medalists
 Hello. Here is my [In-Class Exercise: Historical Olympic Medalists](Historical Olympic Medalists.md)!
 
+## In-Class Exercise: FIFA Player Power Rankings
+Hello. Here is my [In-Class Exercise: FIFA Player Power Rankings](FIFA Player Power Rankings.md)!
+
 ## ⛳Final Project Part I
 Hello. Here is my [Final Project Part I](Final Project Part I.md)!
 
