@@ -47,6 +47,9 @@ Hello. Here is my [In-Class Exercise: Coronavirus in the U.S., Latest Map and Ca
 ## In-Class Exercise: Ranking of News Media by Consumer Trust
 Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](Trust in News Media.md)!
 
+## In-Class Exercise: Building Gapminder in Tableau
+Hello. Here is my [In-Class Exercise: Building Gapminder in Tableau](Building Gapminder in Tableau.md)!
+
 ## ⛳Final Project Part I
 Hello. Here is my [Final Project Part I](Final Project Part I.md)!
 
