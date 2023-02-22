@@ -50,6 +50,9 @@ Hello. Here is my [In-Class Exercise: Ranking of News Media by Consumer Trust](T
 ## In-Class Exercise: Building Gapminder in Tableau
 Hello. Here is my [In-Class Exercise: Building Gapminder in Tableau](Building Gapminder in Tableau.md)!
 
+## In-Class Exercise: Historical Olympic Medalists
+Hello. Here is my [In-Class Exercise: Historical Olympic Medalists](Historical Olympic Medalists.md)!
+
 ## ⛳Final Project Part I
 Hello. Here is my [Final Project Part I](Final Project Part I.md)!
 
