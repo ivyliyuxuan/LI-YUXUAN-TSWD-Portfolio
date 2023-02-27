@@ -7,26 +7,7 @@
 
 # Brief Summary So Far
 ## Part I ✍️
-This project looks at the working overtime situation in the U.S..
-According to The ILO Department of Statistics, the average working hours in the United States are relatively short compared to countries like China and India. However, is it true that there is no overtime culture in the United States? Apparently, not so. Various social surveys and news reports show that employees in the U.S. suffer from significant overtime and are afraid to take vacations.
-To change this dilemma, to find the root cause, and to help the CMU students who will soon graduate and enter the workforce learn to refuse to work overtime, we need each of us to concern and analyze working overtime. <br> 
-How to solve the dilemma of working overtime in the U.S. <br><br> 
-The whole story is divided into **5 big scenarios** with some small stories: <br> 
-**Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
-&emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
-&emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
-&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
-**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
-**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
-**Scenario 4:** Resolution - How to refuse to work overtime <br> 
-&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
-&emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
-**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
-Project Structure
 
- <br>
- <br>
- <br>
 
 ## Part II 📊
 
@@ -52,7 +33,7 @@ change from 0.21 to 21%. <br>
 
 
 ## Add informatiion about US paid time off situation and holiday usage data
-After **“What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.”**, I add working while taking vacation to... <br>
+
 
  
  
@@ -75,55 +56,46 @@ After **“What's more unfortunate is that even for those employees who can have
  <br> 
  
  
-# User Research and interviews 👂
-## Target audience
-The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime.
+
+# Target audience 👨‍👩‍👧‍👦
+The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime. <br>
 Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content.
 
-## Approach to identifying representative individuals to interview
-I will be graduating from Carnegie Mellon this May and will start working after that. My classmates are the same. So all of my classmates are potential employees. Meanwhile, my seniors, they have started working for about 6 years, so they are most likely the employees who are suffering from overtime. 
-To diversify the interviewees, the individuals chosen have different working experience and education experience. Some haven't started working yet, but some have been working for 5 years. Some are working in the financial industry, but some are working in the technology industry. 
-
-## Interview record
-I have shared the wireframes with three other people and collected feedback. The following are the relevant records:<br>
- <br>
-👧 **The first interviewee: new graduate student, female, 23 years old** <br>
-
-| Questions | Answer from the first interviewee |
-| --------------------- | ---------------------  |
-| Are all the storyboards clear and closely related to the main topic ? | It's clear and closely related to the main topic, but the style in which the interface is scrolled breaks the link between parts. So hopefully a tab directory or other cue can be added to give the audience a clearer idea of the structure. |
-| Is there anything you find surprising? What works well in charts? | I really like the chart to compare the paid Vacation and paid Holidays of each OECD nations, because the idea of adding the flag of the corresponding country to each bar is very interesting. And that chart uses a lot of gray for minor information, while the author uses a red alert for the US, which has only 0 legal paid holidays, allowing me to catch the important information at first glance. I was very shocked at what the chart conveyed. The U.S. remains the only advanced economy in the world that does not guarantee its workers paid vacation and holidays! |
-| Is there anything you find confusing? What doesn’t work well in charts? | I don't like the chart to present that manufacturing, finance and information industries are more likely to have paid leave benefits. The bart chart is a little bit boring there, because the author has used bar chart in other part. So it would be better if the author can change other kind of chart to visualization.  |
-| Do you think the color parttern design suit the topic well? | The color scheme is quite simple to understand. Usually, I see red and think it represents a bad message and is important. And judging from the title and the rest of the description, I know that the author does use red to indicate a warning message, which confirms my suspicions. But whether there is good color matching between the different Scenarios is something the authors need to pay further attention to. After all, the page is a collation and the viewer will have a very intuitive overall feeling. |
-| How engaged do you feel about the whole story? Will you respond to the call to action? | This content is of great interest to me because I am about to enter the workplace. I've heard a lot of stories about overtime, and it scares me a lot. I am desperate for the overtime culture to change. So I'm so engaged about the whole story. I have become clearly aware of the dangers of working overtime. If I also encounter unreasonable overtime arrangements in the future, I hope I can bravely refuse them instead of suffering them in silence.  |
 
  <br>
  <br>
-👨‍🦲 **The second interviewee: adult with 6 years of experience in financial services, investor, male, 30 years old** <br>
-
-| Questions | Answer from the first interviewee |
-| --------------------- | ---------------------  |
-| Are all the storyboards clear and closely related to the main topic ? | I think it's clear and closely related to the main topic, but I would like to see the cover and the small cover of each scenario. Now I can only see how the short stories in each chapter will be presented, but not the cover and other designs in the pages. |
-| Is there anything you find surprising? What works well in charts? | I really like the conflict brought by the first chart and the second chart. The author uses the first chart to tell us that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad. However, in the second chart, we can find that the U.S. employees are also working overtime. This conflict in these two charts really interested and surprised me. |
-| Is there anything you find confusing? What doesn’t work well in charts? | I don't like the design of chart to present longer service requirement brings longer vacation. It's design is a bit dull. Although I can understand the meaning of the chart, I think the design of the chart does not give me visual enjoyment and I hope the author can further optimize it.  |
-| Do you think the color parttern design suit the topic well? | The color palette is very simple to follow. Because overtime is such a depressing topic, it's fitting that the author used a dark background in some of the charts. Also, I really like the author's use of red and gray together. In this case, the red represents important information with a warning message, while the gray is a secondary message. This allows the viewer to notice the important information at first glance. Also, I noticed that the author used the warm sun as a background in the section about vacations, which is very appropriate. Also, the positive information about the vacation, etc. is in green, which makes it easy for the viewer to pick up on it. |
-| How engaged do you feel about the whole story? Will you respond to the call to action? | I'm so engaged about the whole story. Nowadays, overtime in the financial industry is very serious, and I often have to work late. In the past 6 years, I often neglected my family or friends because of overtime, which made me sad. But because of the serious overtime culture in the company, I often dare not refuse to work overtime. However, after seeing that so many other countries have legal paid leave and there are still many ways to avoid overtime, I think I will try my best to avoid overtime in my future work.  |
-
- <br>
+ 
+ # Summary 💕💪😘
+ ## Summary of my work
+I hope to look at the working overtime situation in the U.S. through this project. So I pick the topic about **how to solve the dilemma of working overtime in the U.S.**. According to The ILO Department of Statistics, the average working hours in the United States are relatively short compared to countries like China and India. However, is it true that there is no overtime culture in the United States? Apparently, not so. Various social surveys and news reports show that employees in the U.S. suffer from significant overtime and are afraid to take vacations. To change this dilemma, to find the root cause, and to help the employees or prospective employees who are suffering or at risk of suffering from overtime learn to refuse to work overtime, I try my best to concern and analyze working overtime. <br> 
  <br>
 
-🧑 **The third interviewee: adult with 2 years of experience in technology companies, Algorithm Engineer, male, 25 years old** <br>
-
-| Questions | Answer from the first interviewee |
-| --------------------- | ---------------------  |
-| Are all the storyboards clear and closely related to the main topic ? | It's clear and closely related to the main topic, but because there is so much of content, I would like to give a side note, especially on how to solve the overtime problem. I'm going through overtime right now, so I'm very eager to know how to fix it. |
-| Is there anything you find surprising? What works well in charts? | I really like the chart about the longer you work, the more likely you are to suffer from mental illness. The design of this chart is very good! It's a interactive gauge visualizations. The control button in the chart can let us to choose the kind of mental illness to learn. The gauge charts are divided into three part, lower risk, likely, very likely. This can well present that the longer you work, the more likely you are to suffer from mental illness. I'm really really enjoy this chart. It surprised me! |
-| Is there anything you find confusing? What doesn’t work well in charts? | I think in the last call on part, the author only used two word cloud charts seems a bit monotonous, the author can use some dynamic charts etc. to increase the visual experience of the audience.  |
-| Do you think the color parttern design suit the topic well? | The use of color is very appropriate and allows me to notice key elements at once. For example, when I see red, I know it is important information with a warning meaning, while green is representing a relatively good situation. However, since I haven't seen the complete finished webpage, I can't yet judge whether the color scheme of the whole webpage is harmonious, which involves the author's aesthetic and design ability.  |
-| How engaged do you feel about the whole story? Will you respond to the call to action? | I'm completely engaged in the entire story. My boss always gives me a lot of whimsical demands. And I was afraid of being fired because I was an employee who had just joined the company for two years, so I was always afraid to refuse overtime work. Through this story, I found that many people, like me, are afraid to refuse to work overtime because of the fundamental reason. This made me start to reflect on it. At the same time, seeing that overtime has so many hazards, I hope I can learn several ways to avoid overtime mentioned in the story to reduce overtime. |
-
+After the discussion with my classmates, I divide the whole story into **5 big scenarios** with some small stories: <br> 
+**Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
+&emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
+&emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
+&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
+**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
+**Scenario 4:** Resolution - How to refuse to work overtime <br> 
+&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
+&emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
+**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
  <br>
  <br>
+ 
+The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
+ <br>
+The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. <br>
+ <br> 
+  
+ ## Summary of my design decisions
+  <br>
+  <br>
+ 
+ ## Summary of my observations
+  <br>
+  <br>
  
 # Suggestions from classmates 👩‍🎓👨‍🎓
 1️⃣ Call to use more paid time off in the call to the last Call on part. <br>
