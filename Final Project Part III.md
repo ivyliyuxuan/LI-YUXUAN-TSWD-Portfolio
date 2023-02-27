@@ -2,19 +2,15 @@
 **Part I:** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md) <br>
 **Part II:** [storyboards and user research](Final Project Part II.md)<br>
 **Part III:** [Final project and presentation](Final Project Part III.md)<br>
-**Shorthand Link:** [Shorthand for final presentation]()<br>
-**Final website:** <br>
+**Shorthand Website Link:** [Shorthand for final presentation]()<br>
+ <br>
 
-# Outline
-## Project Summary 📖
+# Brief Summary So Far
+## Part I ✍️
 This project looks at the working overtime situation in the U.S..
 According to The ILO Department of Statistics, the average working hours in the United States are relatively short compared to countries like China and India. However, is it true that there is no overtime culture in the United States? Apparently, not so. Various social surveys and news reports show that employees in the U.S. suffer from significant overtime and are afraid to take vacations.
 To change this dilemma, to find the root cause, and to help the CMU students who will soon graduate and enter the workforce learn to refuse to work overtime, we need each of us to concern and analyze working overtime. <br> 
-
-## Topic 🎯
 How to solve the dilemma of working overtime in the U.S. <br><br> 
- 
-## Project Structure
 The whole story is divided into **5 big scenarios** with some small stories: <br> 
 **Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
 &emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
@@ -26,79 +22,41 @@ The whole story is divided into **5 big scenarios** with some small stories: <br
 &emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
 &emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
 **Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
- <br>
- <br>
- <br>
-# Wireframes and storyboards
-## Cover
-![cover.JPG](./cover.JPG)
- <br>
-
-## Scenario 1️⃣: Setup - Look into the status of overtime in the United States
-### Story 1.1: Introduce the working hours in the countries of the world and compare with each other.
-**“From the graph we can find that China and India are the ones with the highest working hours, and the situation in the US does not seem to be as bad.”**
- <br>
- <br>
-At the beginning of the story, we will introduce the working hours in the countries of the world and compare with each other. <br>  
-At this point, viewers may be satisfied with the overtime situation in the United States. WoW! It seems that in the U.S. overtime is not serious Introduce the working hours in the countries of the world and compare with each other.<br>
-The [data](https://ilostat.ilo.org/topics/working-time/) of average hours per week per employed person is useful to the level of working overtime in the countries of the world[^1]. <br>  
- <br>  
-![global comparison.PNG](./global comparison.PNG)
- <br>  
- <br> 
-### Story 1.2: (small conflict) Focus on the average working hours in the United States.
-**“But the U.S. employees are also working overtime..."** <br>
- <br>
-After the audience is satisfied with the current state of overtime in America, I want to set up a small conflict here to grab the audience's attention. Here, I will focus on the average working hours in the United States. <br> 
- <br>
-The [survey](https://news.gallup.com/poll/1720/work-work-place.aspx)[^2] from Gallup Company and [report from U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/american-time-use/activity-by-work.htm)[^3] will give us more inspiration. <br> 
- <br>
-
- <br>
-![Focus on USA.PNG](./Focus on USA.PNG)
-
+Project Structure
 
  <br>
  <br>
-![U.S. Average Weekly Working Hours.PNG](./U.S. Average Weekly Working Hours.PNG)
- <br> 
+ <br>
+
+## Part II 📊
+
+
+
+
+## Part III 🎯
+
  
-### Story 1.3: Pay attention to the US paid time off situation and holiday usage data.
-In this scenario, we will pay attention to the US paid time off situation and holiday usage data. <br> 
- <br>
-**“The U.S. remains the only advanced economy in the world that does not guarantee its workers paid vacation and holidays."**
- <br>
- <br>
-If we compare the [total paid vacation and paid holidays of each OECD nations](https://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf)[^4], we would find the zero day in the U.S. <br> 
- <br>
 
-<iframe src='https://flo.uri.sh/visualisation/12806064/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:1100px;height:700px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12806064/?utm_source=embed&utm_campaign=visualisation/12806064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
- <br>
 
-From the [data from U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/ted/2020/79-percent-of-private-industry-workers-had-access-to-paid-vacation-leave-in-march-2019.htm)[^5] and the [news from 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/)[^6], we would find still some workers cannot have access to paid vacation or don't use it. <br> 
- <br>
-**"21% of U.S. private industry workers would tell you that they don't have access to paid holidays. Crazy, right?"** <br>
- <br>
-**“What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.”** <br>
- <br>
-![PTO usage.PNG](./PTO usage.PNG)
- <br>
+# Change in the Final Data Story 🎬
+Changes made since completion of part II:
+## 1. Tab directory
+I Add a tab directory or other cue to give the audience a clearer idea of the structure. <br>
+
+## 2. Chapter cover
+I add the charpter cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
+
+
+## 3. Change the formate of data in chart
+change from 0.21 to 21%. <br>
+
+
+## 4. Add informatiion about US paid time off situation and holiday usage data
+After **“What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.”**, I add working while taking vacation to... <br>
+
  
-## Scenario 2️⃣: Conflict - Concern about the hazards of overtime work.
-**“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger.”**
- <br>
- <br>
-In this scenario, we will concern about the hazards of overtime work. <br> 
-
-[Prevalence of depression, anxiety, PTSD, and suicidal ideation](https://www.statista.com/statistics/1255169/mental-health-conditions-among-health-workers-by-hours-worked-per-week-us/) among public health workers in the United States as of April 2021, by hours worked per week will give us more idea[^7]. <br> 
-
-
-<div class="flourish-embed" data-src="visualisation/12799114" data-width="1100px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
- <br>
- <br> 
  
-## Scenario 3️⃣: In-depth exploration - Explore why employees work overtime even though there are so many hazards.
+## 5. Explore why employees work overtime even though there are so many hazards.
 **"With so many hazards, why do we still work overtime? Fear is the root root cause"** <br>
  <br>
 In this scenario, we will explore why employees work overtime even though there are so many hazards. <br> 
@@ -111,7 +69,7 @@ the survey from the [news of 20 Something Finance](https://20somethingfinance.co
 <script id="infogram_0_a0377cfb-c7ba-4460-bbcd-2c0909f0babd" title="3 of 11 reasons" src="https://e.infogram.com/js/dist/embed.js?Uxk" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a0377cfb-c7ba-4460-bbcd-2c0909f0babd" style="color:#989898!important;text-decoration:none!important;" target="_blank">3 of 11 reasons</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 
-## Scenario 4️⃣: Resolution - How to refuse to work overtime
+## 6. How to refuse to work overtime
 ### Story 4.1: Study what kind of people are more courageous to refuse to work overtime.
 In this scenario, we will study what kind of people are more courageous to refuse to work overtime and have paid vacation. <br> 
  <br> 
@@ -159,8 +117,6 @@ In this Scenario, we will call to reject meaningless working overtime. <br>
 ![positive word cloud.PNG](./positive word cloud.PNG)
  <br> 
  
-# Moodboard 🎨
-![Moodboard.png](./Moodboard.png)
  
 # User Research and interviews 👂
 ## Target audience
