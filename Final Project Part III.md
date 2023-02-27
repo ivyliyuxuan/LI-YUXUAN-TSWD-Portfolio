@@ -5,17 +5,44 @@
 **Shorthand Website Link:** [Shorthand for final presentation]()<br>
  <br>
 
-# Brief Summary So Far
-## Part I ✍️
+# Brief Summary So Far 💕💪😘
+## Summary for Part I ✍️
+In Part I, because I hope to look at the working overtime situation in the U.S. through this project, I pick the topic about **how to solve the dilemma of working overtime in the U.S.**.  <br>
+ <br> 
+After determing the topic, I planned the  whole story is divided into **7 big scenarios** of smaller story points: <br> 
+**Scenario 1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
+**Scenario 2:** Focus on the average working hours in the United States. <br> 
+**Scenario 3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+**Scenario 4:** Concern about the hazards of overtime work. <br> 
+**Scenario 5:** Explore why employees work overtime even though there are so many hazards. <br> 
+**Scenario 6:** Study what kind of people are more courageous to refuse to work overtime. <br> 
+**Scenario 7:** Call to reject meaningless working overtime. <br> 
+ <br> 
+And then I developed a pitch for my  presentation that included **Project Summary**, **Project Topic**, **Reader Perspective**, **Call To Action**, **The Story Arc**, and also **Data Source**. Plus, I also completed **the draft of charts** using in presentation. The chart of final project was designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
+ <br>    
+Additionally, I also identified how I will tell this story. The final deliverables will be an interactive stand-alone project created with **Shorthand**. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color. <br>
+ <br>
+
+## Summary for Part II 📊
+In Part II, after the discussion with my classmates, I redivided the whole story into **5 big scenarios** with some small stories: <br> 
+**Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
+&emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
+&emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
+&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
+**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
+**Scenario 4:** Resolution - How to refuse to work overtime <br> 
+&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
+&emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
+**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
+ <br>
+
+Besides, I started to construct the actual narrative that will take the reader on the journey through my story. After the suggestions from classmates of my draft charts in the part I, I **redesigned the Wireframes and storyboards using Shorthand**, and also completed the **moodboard**. After that, I also identified the **Target Audience**, found representative individuals to **interview**, and collected the **feedback** from them to improve your story. <br>
+ <br>
 
 
-## Part II 📊
-
-
-
-
-## Part III 🎯
-
+## Summary for Part III 🎯
+In Part III, I'm moving on to **final deliverable** which will be completed and giving the published story on Shorthand. I'm **redesigning the shorthand websites and charts** based on all previous feedbacks. I'm also providing a **writeup on Github** that summarizes my work done for the final presentation. Finally, I will implement everything into the shorthand website, and will give a **presentation** during the last class of Telling Stories With Data course in CMU. 
  
 
 
@@ -60,43 +87,11 @@ change from 0.21 to 21%. <br>
 
 # Target audience 👨‍👩‍👧‍👦
 The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime. <br>
-Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content.
+Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content. <br>
 
 
  <br>
  <br>
- 
- # Summary 💕💪😘
- ## Summary of my work
-I hope to look at the working overtime situation in the U.S. through this project. So I pick the topic about **how to solve the dilemma of working overtime in the U.S.**. According to The ILO Department of Statistics, the average working hours in the United States are relatively short compared to countries like China and India. However, is it true that there is no overtime culture in the United States? Apparently, not so. Various social surveys and news reports show that employees in the U.S. suffer from significant overtime and are afraid to take vacations. To change this dilemma, to find the root cause, and to help the employees or prospective employees who are suffering or at risk of suffering from overtime learn to refuse to work overtime, I try my best to concern and analyze working overtime. <br> 
- <br>
-
-After the discussion with my classmates, I divide the whole story into **5 big scenarios** with some small stories: <br> 
-**Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
-&emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
-&emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
-&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
-**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
-**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
-**Scenario 4:** Resolution - How to refuse to work overtime <br> 
-&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
-&emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
-**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
- <br>
- <br>
- 
-The chart of final project will be designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
- <br>
-The final deliverables will be an interactive stand-alone project created with Shorthand. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. <br>
- <br> 
-  
- ## Summary of my design decisions
-  <br>
-  <br>
- 
- ## Summary of my observations
-  <br>
-  <br>
  
 # Suggestions from classmates 👩‍🎓👨‍🎓
 1️⃣ Call to use more paid time off in the call to the last Call on part. <br>
