@@ -40,81 +40,38 @@ Project Structure
 
 # Change in the Final Data Story 🎬
 Changes made since completion of part II:
-## 1. Tab directory
+## Add tab directory
 I Add a tab directory or other cue to give the audience a clearer idea of the structure. <br>
 
-## 2. Chapter cover
+## Add the chapter covers
 I add the charpter cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
 
 
-## 3. Change the formate of data in chart
+## Change the formate of data in chart
 change from 0.21 to 21%. <br>
 
 
-## 4. Add informatiion about US paid time off situation and holiday usage data
+## Add informatiion about US paid time off situation and holiday usage data
 After **“What's more unfortunate is that even for those employees who can have vacation time, they are afraid to use it up.”**, I add working while taking vacation to... <br>
 
  
  
-## 5. Explore why employees work overtime even though there are so many hazards.
-**"With so many hazards, why do we still work overtime? Fear is the root root cause"** <br>
- <br>
-In this scenario, we will explore why employees work overtime even though there are so many hazards. <br> 
-the survey from the [news of 20 Something Finance](https://20somethingfinance.com/americans-not-taking-paid-vacation-days/) will give us the answer. 8 of those 11 reasons are based in fear. And only 3 of those 11 reasons are not based in fear. But, they probably have a deeper root cause that is based in fear![^8]  <br> 
-
-<script id="infogram_0_a70b09c1-f5f1-4c4c-b550-b97cb2ae4cff" title="Why Do We Work Overtime?" src="https://e.infogram.com/js/dist/embed.js?SOq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a70b09c1-f5f1-4c4c-b550-b97cb2ae4cff" style="color:#989898!important;text-decoration:none!important;" target="_blank">Why Do We Work Overtime?</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-<script id="infogram_0_a1dfcf5b-a59b-491c-b296-ec08740c4035" title="8 of 11 reasons" src="https://e.infogram.com/js/dist/embed.js?ved" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a1dfcf5b-a59b-491c-b296-ec08740c4035" style="color:#989898!important;text-decoration:none!important;" target="_blank">8 of 11 reasons</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-<script id="infogram_0_a0377cfb-c7ba-4460-bbcd-2c0909f0babd" title="3 of 11 reasons" src="https://e.infogram.com/js/dist/embed.js?Uxk" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a0377cfb-c7ba-4460-bbcd-2c0909f0babd" style="color:#989898!important;text-decoration:none!important;" target="_blank">3 of 11 reasons</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-
-## 6. How to refuse to work overtime
-### Story 4.1: Study what kind of people are more courageous to refuse to work overtime.
-In this scenario, we will study what kind of people are more courageous to refuse to work overtime and have paid vacation. <br> 
- <br> 
-**"Higher paid workers more likely to have paid leave benefits, for both paid vacation and paid holidays"** <br>
- <br>
-**"Longer service requirement brings longer vacation"** <br>
- <br>
-**"If you work in the manufacturing, finance or information industries, then you're in luck."** <br>
- <br>
-From the data of U.S. Bureau of Labor Statistics, we could find that [higher paid](https://www.bls.gov/opub/ted/2021/higher-paid-workers-more-likely-than-lower-paid-workers-to-have-paid-leave-benefits-in-2020.htm) workers are more likely than lower paid workers to have paid leave benefits[^9]. And [longer service requirement](https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm) more likely to have longer vacation[^10]. As for [industry](https://www.bls.gov/ebs/factsheets/paid-vacations.htm), manufacturing, finance and information industries are more likely to have paid leave benefits[^11].
-
-![Higher paid with more Paid days 2.jpeg](./paid days 2.jpeg)
-
- <br>
- <br>
- <br>
-<div class='tableauPlaceholder' id='viz1676078486435' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PaidleaveAveragenumberofsickandvacationdaysbylengthofservicerequirement&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1676078486435');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+## Redesign the exploration of why employees work overtime even though there are so many hazards.
  <br>
 
- <br>
- <br>
 
-<div class='tableauPlaceholder' id='viz1676048934053' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;Percentageofprivateindustryworkerswithaccesstopaidvacation&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object>
-</div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1676048934053');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+
+## Redesign the content of how to refuse to work overtime
+ <br>            
  <br>
-### Story 4.2: How to become a person who can refuse to work overtime
-![how to refuse 1.JPG](./how to refuse 1.JPG)
- <br> 
-![how to refuse 2.JPG](./how to refuse 2.JPG)
- <br> 
-![how to refuse 3.JPG](./how to refuse 3.JPG)
+## Redesign the content of how to become a person who can refuse to work overtime
+
  <br> 
  <br>
  
-## Scenario 5️⃣: Call on - Call to reject meaningless working overtime.
-**"Please stand up to refuse overtime work"**
-In this Scenario, we will call to reject meaningless working overtime. <br> 
-![negative word cloud.PNG](./negative word cloud.PNG)
- <br>
-![positive word cloud.PNG](./positive word cloud.PNG)
+## Redesign the content of call to reject meaningless working overtime.
+
+
  <br> 
  
  
