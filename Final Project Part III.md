@@ -49,7 +49,7 @@ In Part III, I'm moving on to **final deliverable** which will be completed and 
 Changes made since completion of part II: <br>
 
 ## Add menu bar
-On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
+As the suggestions from classmates, on the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
 ![Add menu bar](https://user-images.githubusercontent.com/107164906/221988156-7c4fcebf-644d-4261-bb31-8c075520da80.png)
  <br>
  
@@ -67,6 +67,29 @@ I add the section cover before each scenarios to give the audience a clearer ide
  <br>
 ![Add the section covers 6](https://user-images.githubusercontent.com/107164906/221988322-a07c05e1-f134-401e-82f4-0de715c6b397.png)
  <br>
+## Edit the cite of external sources
+As the requirement of course, I edit the formate of the cite of external sources more normative. <br>
+![cite 1](https://user-images.githubusercontent.com/107164906/221996448-73992f8f-d5ad-4a4c-b391-d2673ed93c78.png)
+ <br>
+![cite 2](https://user-images.githubusercontent.com/107164906/221996475-688d6491-239f-4f5a-aab4-dc95d2670cff.png)
+ <br>
+![cite 3](https://user-images.githubusercontent.com/107164906/221996489-04b41352-67a0-46b6-815d-91f1d1ab7194.png)
+ <br>
+![cite 4](https://user-images.githubusercontent.com/107164906/221996505-22ab3d1f-242a-420b-a051-6158a21406ea.png)
+ <br>
+![cite 5](https://user-images.githubusercontent.com/107164906/221996590-31ae69a8-1bbf-458b-bc63-1f156836beab.png)
+ <br>
+![cite 6](https://user-images.githubusercontent.com/107164906/221996615-34fc9054-0de3-4401-bb2d-018baac7fb58.png)
+ <br>
+![cite 7](https://user-images.githubusercontent.com/107164906/221996633-84702cd7-ec96-4d9e-bb36-1e7030a2b293.png)
+ <br>
+![cite 8](https://user-images.githubusercontent.com/107164906/221996726-eaddb1a4-352e-4a3b-823c-b8a80faa6620.png)
+ <br>
+![cite 9](https://user-images.githubusercontent.com/107164906/221996754-20cece91-57c7-41e3-932e-be10efa3d2c5.png)
+ <br>
+![cite 10](https://user-images.githubusercontent.com/107164906/221996770-90c9d10d-15bd-47a3-b79f-d7f18c9dd3c8.png)
+ <br>
+
 ## Add the cultural differences
 Based on the suggestion from professor, for comparisons between the US and China / India, I add worth explaining why some cultural differences might exist to give more valuable information for students. <br>
  <br>
@@ -82,32 +105,38 @@ Based on the suggestions from classmates, I change the data formate from 0.49 to
 
 ## Add informatiion about working while on vacation
 Based on the suggestion from classmates, they hope me to put more information about that people are still working while on vacation. They think this information made them more disappointed. Therefore, I add informatiion about working while on vacation. <br>
-![Add informatiion about working while on vacation.png](./Add informatiion about working while on vacation.png)
+![Add informatiion about working while on vacation](https://user-images.githubusercontent.com/107164906/221993904-27e82c57-7f23-4c90-8bad-5754c08a695e.png)
  <br>
  
 ## Redesign why employees work overtime even though there are so many hazards.
 Based on the suggestion from classmates, the original chart to present the survey result about why employees still working overtime is dizzy. Therefore, I redesign it and use more words to illustrute the results. <br>
-![survey 1.png](./survey 1.png)
+![survey 1](https://user-images.githubusercontent.com/107164906/221994143-e9eac76f-6c6a-4ada-b4fe-000a3fcd0b0f.png)
  <br>
-![survey 2.png](./survey 2.png)
+![survey 2](https://user-images.githubusercontent.com/107164906/221994160-005f1bdc-1208-49aa-875f-d1f3fb78a1b2.png)
  <br>
-![survey 3.png](./survey 3.png)
+![survey 3](https://user-images.githubusercontent.com/107164906/221994174-c7a45530-6289-4489-a188-872099da30d4.png)
  <br>
-![survey 4.png](./survey 4.png)
+![survey 4](https://user-images.githubusercontent.com/107164906/221994192-3b539240-6b0f-4c2f-93bd-4e6372e6a898.png)
  <br>
  
 ## Redesign the content of how to refuse to work overtime
-Based on the suggestion from classmates, I make the important information bold and use red or green color to attract the eyes of audiences. <br>
-![refuse 1.png](./refuse 1.png)
+Based on the suggestion from classmates, I make the important information bold and use red or green color to attract the eyes of audiences. Plus, I also give some examples of dialogue to help the audiences to learn about how to refuse work overtime.<br>
+![refuse 1](https://user-images.githubusercontent.com/107164906/221994844-d1e6c9bd-20a1-4be9-8151-d2785d58a4ef.png)
  <br>            
-![refuse 2.png](./refuse 2.png)
+![refuse 2](https://user-images.githubusercontent.com/107164906/221994856-7674aab0-880b-4b81-a363-1ee1095e6dfc.png)
  <br>
-![refuse 3.png](./refuse 3.png)
+![refuse 3](https://user-images.githubusercontent.com/107164906/221994895-472969ca-9c65-4d72-a1d2-4f6dc00bb3e6.png)
+ <br>
+![refuse 4](https://user-images.githubusercontent.com/107164906/221994915-b026eba8-d962-4293-8683-843c02505f45.png)
+ <br>
+![refuse 5](https://user-images.githubusercontent.com/107164906/221994957-acf444a3-9fc6-4c4a-9e3d-dfba3de2a116.png)
+ <br> 
+![refuse 6](https://user-images.githubusercontent.com/107164906/221994980-a38fc2e1-c3d0-4126-a03c-ddd291f62805.png)
  <br>     
  
 ## Redesign the Top 3 Industries
 Based on the suggestion from classmates, I eedesign the Top 3 Industries with the highest percentage of employees taking paid vacation. I just pick top three industries and delete other information to make it clear. <br> 
-![top 3.png](./top 3.png)
+![Top 3](https://user-images.githubusercontent.com/107164906/221995010-d74c5469-c97d-450d-b02e-3a2f73b28307.png)
  <br>    
 
  
