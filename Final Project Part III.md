@@ -24,7 +24,8 @@ Additionally, I also identified how I will tell this story. The final deliverabl
  <br>
 
 ## Summary for Part II 📊
-In Part II, after the discussion with my classmates, I redivided the whole story into **5 big scenarios** with some small stories: <br> 
+In Part II, after the discussion with my classmates, I redivided the whole story into **5 big scenarios** with some small stories: <br>
+ <br> 
 **Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
 &emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
 &emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
@@ -36,18 +37,16 @@ In Part II, after the discussion with my classmates, I redivided the whole story
 &emsp; **Story 5.2:** How to become a person who can refuse to work overtime <br> 
 **Scenario 6:** Call on - Call to reject meaningless working overtime. <br> 
  <br>
-
 Besides, I started to construct the actual narrative that will take the reader on the journey through my story. After the suggestions from classmates of my draft charts in the part I, I **redesigned the Wireframes and storyboards using Shorthand**, and also completed the **moodboard**. After that, I also identified the **Target Audience**, found representative individuals to **interview**, and collected the **feedback** from them to improve your story. <br>
  <br>
 
 
 ## Summary for Part III 🎯
-In Part III, I'm moving on to **final deliverable** which will be completed and giving the published story on Shorthand. I'm **redesigning the shorthand websites and charts** based on all previous feedbacks. I'm also providing a **writeup on Github** that summarizes my work done for the final presentation. Finally, I will implement everything into the shorthand website, and will give a **presentation** during the last class of Telling Stories With Data course in CMU. 
+In Part III, I'm moving on to **final deliverable** which will be completed and giving the published story on Shorthand. I'm **redesigning the shorthand websites and charts** based on all previous feedbacks. I'm also providing a **writeup on Github** that summarizes my work done for the final presentation. Finally, I will implement everything into the shorthand website, and will give a **presentation** during the last class of Telling Stories With Data course in CMU. <br>
+ <br> 
  
-
-
 # Change in the Final Data Story 🎬
-Changes made since completion of part II:
+Changes made since completion of part II: <br>
 
 ## Add menu bar
 On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
