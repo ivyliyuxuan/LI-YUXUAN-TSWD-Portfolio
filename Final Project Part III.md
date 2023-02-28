@@ -19,7 +19,7 @@ After determing the topic, I planned the  whole story is divided into **7 big sc
 **Scenario 7:** Call to reject meaningless working overtime. <br> 
  <br> 
 And then I developed a pitch for my  presentation that included **Project Summary**, **Project Topic**, **Reader Perspective**, **Call To Action**, **The Story Arc**, and also **Data Source**. Plus, I also completed **the draft of charts** using in presentation. The chart of final project was designed and created with Tebleau, Inforgram, Flourish and Canva. <br>
- <br>    
+ <br>
 Additionally, I also identified how I will tell this story. The final deliverables will be an interactive stand-alone project created with **Shorthand**. Each of the scenarios depicted above will have one or two pages on the final Shorthand website. Interaction and movement between pages will be used to promote interactivity and engagement with potential audiences. Moreover, key information will be highlighted through the use of color. <br>
  <br>
 
