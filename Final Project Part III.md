@@ -48,10 +48,12 @@ In Part III, I'm moving on to **final deliverable** which will be completed and 
 
 # Change in the Final Data Story 🎬
 Changes made since completion of part II:
+
 ## Add menu bar
 On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
 ![Add menu bar.png](./Add menu bar.png)
  <br>
+ 
 ## Add the section covers
 I add the section cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
 ![Add the section covers 1.png](./Add the section covers 1.png)
@@ -74,55 +76,56 @@ Based on the suggestions from classmates, I change the data formate from 0.49 to
  <br>
 
 ## Add informatiion about working while on vacation
-Based on the suggestion from classmates, they hope me to put more information about that people are still working while on vacation. They think this information made them more disappointed. Therefore, I add informatiion about working while on vacation.
+Based on the suggestion from classmates, they hope me to put more information about that people are still working while on vacation. They think this information made them more disappointed. Therefore, I add informatiion about working while on vacation. <br>
 ![Add informatiion about working while on vacation.png](./Add informatiion about working while on vacation.png)
  <br>
  
-## Redesign the exploration of why employees work overtime even though there are so many hazards.
+## Redesign why employees work overtime even though there are so many hazards.
+Based on the suggestion from classmates, the original chart to present the survey result about why employees still working overtime is dizzy. Therefore, I redesign it and use more words to illustrute the results. <br>
+![survey 1.png](./survey 1.png)
  <br>
-
-
-
-## Redesign the content of how to refuse to work overtime
- <br>            
+![survey 2.png](./survey 2.png)
+ <br>
+![survey 3.png](./survey 3.png)
+ <br>
+![survey 4.png](./survey 4.png)
  <br>
  
-## Redesign the content of how to become a person who can refuse to work overtime
-
- <br> 
+## Redesign the content of how to refuse to work overtime
+Based on the suggestion from classmates, I make the important information bold and use red or green color to attract the eyes of audiences. <br>
+![refuse 1.png](./refuse 1.png)
+ <br>            
+![refuse 2.png](./refuse 2.png)
  <br>
+![refuse 3.png](./refuse 3.png)
+ <br>     
+ 
+## Redesign the Top 3 Industries
+Based on the suggestion from classmates, I eedesign the Top 3 Industries with the highest percentage of employees taking paid vacation. I just pick top three industries and delete other information to make it clear. <br> 
+![top 3.png](./top 3.png)
+ <br>    
+
  
 ## Redesign the content of call to reject meaningless working overtime.
+Based on the suggestion from classmates, I'm supposed to give more words to engage audience about refusing overtime work. So I use both charts and the illustration for the the last call on section.
+![Call on 1.png](./Call on 1.png)
+ <br>    
+![Call on 2.png](./Call on 2.png)
+ <br>   
+![Call on 3.png](./Call on 3.png)
+ <br>   
+![Call on 4.png](./Call on 4.png)
+ <br>   
 
-
+## Add thanks part in the end of the website
+I add the "Thank You" in the last page of the website.
+![Thank You.png](./Thank You.png)
  <br> 
- 
- 
+
 
 # Target audience 👨‍👩‍👧‍👦
 The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime. <br>
 Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content. <br>
-
-
- <br>
- <br>
- 
-# Suggestions from classmates 👩‍🎓👨‍🎓
-1️⃣ Call to use more paid time off in the call to the last Call on part. <br>
-2️⃣ Edit the chart about total paid vacation and paid holidays of each OECD nations, letting it give more focus on 0 by larger size. And only pick top 5 coutries to compare with the U.S.
- 
-# Main Findings & Possible changes
-## For Logic and content
-1️⃣ Add more information on how to solve or avoid the overtime problem, as this is the part that the audience cares most about. <br>
-## For design 
-1️⃣ Add a tab directory or other cue to give the audience a clearer idea of the structure. <br>
-2️⃣ Give a well design of the cover. <br>
-3️⃣ Redesign the last call on part. Maybe I can use some dynamic charts etc. to increase the visual experience of the audience. <br>
-## For charts
-1️⃣ Redesign the chart which presents that manufacturing, finance and information industries are more likely to have paid leave benefits. It may be possible to place these three industries in the main view area of the audience, in the upper left corner, and give a relatively large area. And the other industries in a smaller area in the lower right corner. <br>
-2️⃣ Redesign the chart which presents the longer service requirement brings longer vacation. It might be possible to make the chart less cluttered by adding control to allow viewers to choose between private industry or the state and local government. <br>
-
-
 
 
 # Data Source 📊
