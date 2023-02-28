@@ -25,7 +25,6 @@ Additionally, I also identified how I will tell this story. The final deliverabl
 
 ## Summary for Part II 📊
 In Part II, after the discussion with my classmates, I redivided the whole story into **5 big scenarios** with some small stories: <br>
- <br> 
 **Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
 &emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
 &emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
@@ -43,6 +42,7 @@ Besides, I started to construct the actual narrative that will take the reader o
 
 ## Summary for Part III 🎯
 In Part III, I'm moving on to **final deliverable** which will be completed and giving the published story on Shorthand. I'm **redesigning the shorthand websites and charts** based on all previous feedbacks. I'm also providing a **writeup on Github** that summarizes my work done for the final presentation. Finally, I will implement everything into the shorthand website, and will give a **presentation** during the last class of Telling Stories With Data course in CMU. <br>
+Importantly, because this is a public website, I edit the formate of the **cite** of external sources more normative.
  <br> 
  
 # Change in the Final Data Story 🎬
