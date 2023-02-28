@@ -28,13 +28,13 @@ In Part II, after the discussion with my classmates, I redivided the whole story
 **Scenario 1:** Setup - Look into the status of overtime in the United States <br> 
 &emsp; **Story 1.1:** Introduce the working hours in the countries of the world and compare with each other. <br> 
 &emsp; **Story 1.2:** (small conflict) Focus on the average working hours in the United States. <br> 
-&emsp; **Story 1.3:** Pay attention to the US paid time off situation and holiday usage data. <br> 
-**Scenario 2:** Conflict- Concern about the hazards of overtime work. <br> 
-**Scenario 3:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
-**Scenario 4:** Resolution - How to refuse to work overtime <br> 
-&emsp; **Story 4.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
-&emsp; **Story 4.2:** How to become a person who can refuse to work overtime <br> 
-**Scenario 5:** Call on - Call to reject meaningless working overtime. <br> 
+**Scenario 2:** Pay attention to the US paid time off situation and holiday usage data. <br> 
+**Scenario 3:** Conflict- Concern about the hazards of overtime work. <br> 
+**Scenario 4:** In-depth exploration - Explore why employees work overtime even though there are so many hazards. <br> 
+**Scenario 5:** Resolution - How to refuse to work overtime <br> 
+&emsp; **Story 5.1:** Study what kind of people are more courageous to refuse to work overtime. <br>
+&emsp; **Story 5.2:** How to become a person who can refuse to work overtime <br> 
+**Scenario 6:** Call on - Call to reject meaningless working overtime. <br> 
  <br>
 
 Besides, I started to construct the actual narrative that will take the reader on the journey through my story. After the suggestions from classmates of my draft charts in the part I, I **redesigned the Wireframes and storyboards using Shorthand**, and also completed the **moodboard**. After that, I also identified the **Target Audience**, found representative individuals to **interview**, and collected the **feedback** from them to improve your story. <br>
@@ -48,11 +48,11 @@ In Part III, I'm moving on to **final deliverable** which will be completed and 
 
 # Change in the Final Data Story 🎬
 Changes made since completion of part II:
-## Add tab directory
-I Add a tab directory or other cue to give the audience a clearer idea of the structure. <br>
+## Add menu bar
+On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections.<br>
 
-## Add the chapter covers
-I add the charpter cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
+## Add the section covers
+I add the section cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
 
 
 ## Change the formate of data in chart
