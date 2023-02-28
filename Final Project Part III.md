@@ -50,34 +50,34 @@ Changes made since completion of part II: <br>
 
 ## Add menu bar
 On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
-![Add menu bar.png](./Add menu bar.png)
+![Add menu bar](https://user-images.githubusercontent.com/107164906/221988156-7c4fcebf-644d-4261-bb31-8c075520da80.png)
  <br>
  
 ## Add the section covers
 I add the section cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
-![Add the section covers 1.png](./Add the section covers 1.png)
+![Add the section covers 1](https://user-images.githubusercontent.com/107164906/221988223-10166517-b66c-49b0-bb87-97918c9f6719.png)
  <br>
-![Add the section covers 2.png](./Add the section covers 2.png)
+![Add the section covers 2](https://user-images.githubusercontent.com/107164906/221988243-dfc9fd14-a394-458b-9cdc-4689328643e9.png)
  <br>
-![Add the section covers 3.png](./Add the section covers 3.png)
+![Add the section covers 3](https://user-images.githubusercontent.com/107164906/221988263-9982ec57-5644-4865-8ecb-687143afcb27.png)
  <br>
-![Add the section covers 4.png](./Add the section covers 4.png)
+![Add the section covers 4](https://user-images.githubusercontent.com/107164906/221988288-591970a0-467d-4a3b-a4a6-8fd01cd7a839.png)
  <br>
-![Add the section covers 5.png](./Add the section covers 5.png)
+![Add the section covers 5](https://user-images.githubusercontent.com/107164906/221988304-a222fa8b-012d-43e0-a2c0-391f890e3627.png)
  <br>
-![Add the section covers 6.png](./Add the section covers 6.png)
+![Add the section covers 6](https://user-images.githubusercontent.com/107164906/221988322-a07c05e1-f134-401e-82f4-0de715c6b397.png)
  <br>
 ## Add the cultural differences
 Based on the suggestion from professor, for comparisons between the US and China / India, I add worth explaining why some cultural differences might exist to give more valuable information for students. <br>
  <br>
-![cultural difference.JPG](./cultural difference.JPG)
+![cultural difference](https://user-images.githubusercontent.com/107164906/221988393-6acacf6f-21ef-454f-8187-9af7e8b68f62.JPG)
  <br>
  
 ## Change the formate of data in chart
 Based on the suggestions from classmates, I change the data formate from 0.49 to 49% and from 0.21 to 21% in the chart, because it will be consistent with the description below the chart. <br>
-![Change data format 1.png](./Change data format 1.png)
+![Change data format 1](https://user-images.githubusercontent.com/107164906/221988443-53a9b0f5-21ca-40cc-ade3-64c534d6fb9c.png)
  <br>
-![Change data format 2.png](./Change data format 2.png)
+![Change data format 2](https://user-images.githubusercontent.com/107164906/221988459-999f015c-07ae-4946-b9dd-1bb64afa8b55.png)
  <br>
 
 ## Add informatiion about working while on vacation
@@ -113,24 +113,25 @@ Based on the suggestion from classmates, I eedesign the Top 3 Industries with th
  
 ## Redesign the content of call to reject meaningless working overtime.
 Based on the suggestion from classmates, I'm supposed to give more words to engage audience about refusing overtime work. So I use both charts and the illustration for the the last call on section.
-![Call on 1.png](./Call on 1.png)
+![Call on 1](https://user-images.githubusercontent.com/107164906/221988552-443eef72-004c-4acd-bef6-221f0ed5e15b.png)
  <br>    
-![Call on 2.png](./Call on 2.png)
+![Call on 2](https://user-images.githubusercontent.com/107164906/221988571-e4bcf7c2-8302-46ca-9b93-169497ee7209.png)
  <br>   
-![Call on 3.png](./Call on 3.png)
+![Call on 3](https://user-images.githubusercontent.com/107164906/221988587-f65b5141-b5a0-4dc9-aefa-425a7e77f1cd.png)
  <br>   
-![Call on 4.png](./Call on 4.png)
+![Call on 4](https://user-images.githubusercontent.com/107164906/221988610-3c39b11e-d3b9-4d23-ab86-9e43d71eec35.png)
  <br>   
 
 ## Add thanks part in the end of the website
 I add the "Thank You" in the last page of the website.
-![Thank You.png](./Thank You.png)
+![Thank You](https://user-images.githubusercontent.com/107164906/221988507-c34c8cf6-9840-4939-83c5-42ae7c828183.png)
  <br> 
 
 
 # Target audience 👨‍👩‍👧‍👦
 The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime. <br>
 Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content. <br>
+More specifically, my target audience is Carnegie Mellon University recent graduates who don't know much about the current overtime situation in the U.S. or how to turn it down in the workplace. I hope to use this website to help them understand what they should know about Overtime work in the U.S. but don't. <br>
 
 
 # Data Source 📊
