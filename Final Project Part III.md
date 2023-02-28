@@ -49,20 +49,34 @@ In Part III, I'm moving on to **final deliverable** which will be completed and 
 # Change in the Final Data Story 🎬
 Changes made since completion of part II:
 ## Add menu bar
-On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections.<br>
-
+On the top of the website, I add a menu bar with the titles of each major section. This bar gives the audience a clearer idea of the structure and allows readers to effortlessly go back and forth between sections. <br>
+![Add menu bar.png](./Add menu bar.png)
+ <br>
 ## Add the section covers
 I add the section cover before each scenarios to give the audience a clearer idea of the topic of each scenarios. <br>
-
-
+![Add the section covers 1.png](./Add the section covers 1.png)
+ <br>
+![Add the section covers 2.png](./Add the section covers 2.png)
+ <br>
+![Add the section covers 3.png](./Add the section covers 3.png)
+ <br>
+![Add the section covers 4.png](./Add the section covers 4.png)
+ <br>
+![Add the section covers 5.png](./Add the section covers 5.png)
+ <br>
+![Add the section covers 6.png](./Add the section covers 6.png)
+ <br>
 ## Change the formate of data in chart
-change from 0.21 to 21%. <br>
+Based on the suggestions from classmates, I change the data formate from 0.49 to 49% and from 0.21 to 21% in the chart, because it will be consistent with the description below the chart. <br>
+![Change data format 1.png](./Change data format 1.png)
+ <br>
+![Change data format 2.png](./Change data format 2.png)
+ <br>
 
-
-## Add informatiion about US paid time off situation and holiday usage data
-
-
- 
+## Add informatiion about working while on vacation
+Based on the suggestion from classmates, they hope me to put more information about that people are still working while on vacation. They think this information made them more disappointed. Therefore, I add informatiion about working while on vacation.
+![Add informatiion about working while on vacation.png](./Add informatiion about working while on vacation.png)
+ <br>
  
 ## Redesign the exploration of why employees work overtime even though there are so many hazards.
  <br>
