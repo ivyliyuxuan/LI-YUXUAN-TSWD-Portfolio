@@ -67,6 +67,12 @@ I add the section cover before each scenarios to give the audience a clearer ide
  <br>
 ![Add the section covers 6.png](./Add the section covers 6.png)
  <br>
+## Add the cultural differences
+Based on the suggestion from professor, for comparisons between the US and China / India, I add worth explaining why some cultural differences might exist to give more valuable information for students. <br>
+ <br>
+![cultural difference.JPG](./cultural difference.JPG)
+ <br>
+ 
 ## Change the formate of data in chart
 Based on the suggestions from classmates, I change the data formate from 0.49 to 49% and from 0.21 to 21% in the chart, because it will be consistent with the description below the chart. <br>
 ![Change data format 1.png](./Change data format 1.png)
