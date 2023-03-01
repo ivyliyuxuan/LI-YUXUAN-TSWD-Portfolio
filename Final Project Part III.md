@@ -160,7 +160,7 @@ I add the "Thank You" in the last page of the website.
 # Target audience 👨‍👩‍👧‍👦
 The main target audience are employees or prospective employees who are suffering or at risk of suffering from overtime. <br>
 Because the call to action of this whole project is to ask for workers to stand up to refuse and defend their right when overtime is so serious that it has infringed on their right, employees or prospective employees who are suffering or at risk of suffering from overtime will be more likely to relate to the content. <br>
-More specifically, my target audience is Carnegie Mellon University recent graduates who don't know much about the current overtime situation in the U.S. or how to turn it down in the workplace. I hope to use this website to help them understand what they should know about Overtime work in the U.S. but don't. <br>
+“On CMU's campus, there are always people who chant "My heart is in the work". But working long hours can bring you a great deal of danger. So more specifically, my target audience is Carnegie Mellon University recent graduates who don't know much about the current overtime situation in the U.S. or how to turn it down in the workplace. I hope to use this website to help them understand what they should know about Overtime work in the U.S. but don't. <br>
 
 
 # Data Source 📊
