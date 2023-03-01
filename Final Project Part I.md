@@ -1,8 +1,9 @@
 # Catalog of Final Project
 **Part I:** [Brief Intro & Overview: Working Overtime in the U.S.](Final Project Part I.md) <br>
-**Part II:** <br>
-**Part III:** <br>
-**Final website:** <br>
+**Part II:** [storyboards and user research](Final Project Part II.md)<br>
+**Part III:** [Final project and presentation](Final Project Part III.md)<br>
+**Shorthand Website Link:** [Shorthand for final presentation](https://carnegiemellon.shorthandstories.com/tellingstorieswithdatayuxuanl2/index.html)<br>
+ <br>
 
 # Outline
 ## Project Summary 📖
